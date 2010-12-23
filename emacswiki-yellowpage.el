@@ -361,7 +361,7 @@
 (:name dos-indent :revision 5 :last-modified 2010-08-03T12:05Z)
 (:name dot-emacs-helper :revision 5 :last-modified 2008-09-05T05:54Z)
 (:name dot-mode :revision 8 :last-modified 2010-08-03T12:08Z)
-(:name double-type :revision 6 :last-modified 2010-12-23T18:22Z)
+(:name double-type :revision 7 :last-modified 2010-12-23T19:06Z)
 (:name dove-ext :revision 15 :last-modified 2010-10-09T15:51Z)
 (:name download-icicles :revision 7 :last-modified 2008-11-02T08:15Z)
 (:name doxymacs-yard :revision 3 :last-modified 2009-12-22T21:51Z)
