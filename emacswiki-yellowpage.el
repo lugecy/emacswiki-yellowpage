@@ -192,7 +192,7 @@
 (:name buffer-extension :revision 4 :last-modified 2009-04-11T01:55Z)
 (:name buffer-move :revision 9 :last-modified 2010-08-03T11:29Z)
 (:name buffer-ring :revision 2 :last-modified 2009-04-16T23:00Z)
-(:name buffer-stack :revision 1 :last-modified 2010-12-22T16:21Z)
+(:name buffer-stack :revision 2 :last-modified 2010-12-23T10:20Z)
 (:name buffer-stack-suppl :revision 1 :last-modified 2010-12-22T16:23Z)
 (:name buffer-time-stamp :revision 5 :last-modified 2008-09-05T05:55Z)
 (:name bug :revision 8 :last-modified 2008-09-05T05:53Z)
