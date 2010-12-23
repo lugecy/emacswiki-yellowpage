@@ -1465,7 +1465,7 @@
 (:name wajig :revision 8 :last-modified 2007-08-09T08:20Z)
 (:name warn-mail :revision 12 :last-modified 2008-01-18T12:34Z)
 (:name wc :revision 2 :last-modified 2007-09-04T20:03Z)
-(:name wcheck-mode :revision 14 :last-modified 2010-08-07T06:33Z)
+(:name wcheck-mode :revision 15 :last-modified 2010-12-23T20:54Z)
 (:name wcy-complete :revision 6 :last-modified 2010-04-23T07:59Z)
 (:name wcy-compose :revision 1 :last-modified 2009-04-27T08:22Z)
 (:name wcy-desktop :revision 5 :last-modified 2010-04-27T07:55Z)
