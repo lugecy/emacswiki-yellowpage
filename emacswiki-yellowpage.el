@@ -66,7 +66,7 @@
 (:name anything-c-javadoc :revision 2 :last-modified 2010-02-23T16:59Z)
 (:name anything-c-shell-history :revision 2 :last-modified 2009-02-24T12:03Z)
 (:name anything-complete :revision 47 :last-modified 2010-12-16T12:55Z)
-(:name anything-config :revision 319 :last-modified 2010-12-18T22:05Z)
+(:name anything-config :revision 320 :last-modified 2010-12-25T17:19Z)
 (:name anything-dabbrev-expand :revision 15 :last-modified 2009-04-20T16:26Z)
 (:name anything-delicious :revision 17 :last-modified 2010-08-29T06:21Z)
 (:name anything-el-swank-fuzzy :revision 6 :last-modified 2009-12-10T14:26Z)
