@@ -497,7 +497,7 @@
 (:name finder+ :revision 13 :last-modified 2010-08-28T20:26Z)
 (:name findr :revision 13 :last-modified 2009-12-02T07:45Z)
 (:name finkinfo :revision 2 :last-modified 2006-12-11T04:29Z)
-(:name fit-frame :revision 45 :last-modified 2010-08-28T03:06Z)
+(:name fit-frame :revision 46 :last-modified 2010-12-24T23:44Z)
 (:name fix-buffers-list :revision 3 :last-modified 2010-04-27T15:16Z)
 (:name fixme-mode :revision 2 :last-modified 2010-06-23T19:43Z)
 (:name flashcard-sm5 :revision 6 :last-modified 2006-09-01T13:00Z)
