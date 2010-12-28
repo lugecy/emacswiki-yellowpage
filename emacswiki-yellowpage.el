@@ -388,6 +388,7 @@
 (:name edi-mode :revision 10 :last-modified 2008-09-05T05:54Z)
 (:name ediff+ :revision 10 :last-modified 2010-01-15T20:57Z)
 (:name ediff-trees :revision 6 :last-modified 2008-09-05T05:54Z)
+(:name edje-mode :revision 1 :last-modified 2010-12-28T12:52Z)
 (:name eev-thierry :revision 3 :last-modified 2009-07-05T06:43Z)
 (:name eform :revision 7 :last-modified 2010-08-03T12:13Z)
 (:name eight-puzzle :revision 3 :last-modified 2008-09-05T05:54Z)
