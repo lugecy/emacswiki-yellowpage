@@ -1142,6 +1142,7 @@
 (:name rcirc-late-fix :revision 7 :last-modified 2007-12-12T02:20Z)
 (:name rcirc-notify :revision 10 :last-modified 2009-10-17T00:29Z)
 (:name rcirc-notify+ :revision 3 :last-modified 2009-01-11T03:03Z)
+(:name rcirc-notify-mode :revision 1 :last-modified 2010-12-28T13:31Z)
 (:name rcirc-pounce :revision 7 :last-modified 2008-12-04T18:58Z)
 (:name rcirc-random-names :revision 2 :last-modified 2009-11-18T16:38Z)
 (:name rcirc-sound :revision 6 :last-modified 2008-12-03T21:35Z)
