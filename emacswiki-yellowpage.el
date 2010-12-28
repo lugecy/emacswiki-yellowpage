@@ -39,7 +39,7 @@
 (:name ada-gpr :revision 3 :last-modified 2008-12-13T18:06Z)
 (:name adc :revision 4 :last-modified 2007-12-11T13:50Z)
 (:name aes :revision 3 :last-modified 2008-10-02T20:18Z)
-(:name ajc-java-complete :revision 1 :last-modified 2010-12-27T13:05Z)
+(:name ajc-java-complete :revision 2 :last-modified 2010-12-28T05:36Z)
 (:name ajc-java-complete-config :revision 1 :last-modified 2010-12-27T13:09Z)
 (:name ajc-java-complete-my-config-example :revision 1 :last-modified 2010-12-27T14:01Z)
 (:name akkadian :revision 1 :last-modified 2009-03-11T08:58Z)
