@@ -175,7 +175,7 @@
 (:name blip :revision 1 :last-modified 2009-06-14T20:52Z)
 (:name bm-ext :revision 3 :last-modified 2008-09-05T05:53Z)
 (:name bmi :revision 5 :last-modified 2010-05-12T15:19Z)
-(:name bookmark+ :revision 283 :last-modified 2010-08-19T14:56Z)
+(:name bookmark+ :revision 284 :last-modified 2011-01-03T18:52Z)
 (:name bookmark+-1 :revision 23 :last-modified 2010-12-10T17:43Z)
 (:name bookmark+-bmu :revision 11 :last-modified 2010-12-10T17:45Z)
 (:name bookmark+-chg :revision 28 :last-modified 2010-12-10T17:47Z)
