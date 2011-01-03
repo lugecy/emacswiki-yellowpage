@@ -111,7 +111,7 @@
 (:name artist-xmas :revision 6 :last-modified 2008-09-05T05:53Z)
 (:name arxiv-reader :revision 8 :last-modified 2009-10-23T05:23Z)
 (:name ascii :revision 6 :last-modified 2008-09-05T05:54Z)
-(:name ascii-table :revision 6 :last-modified 2008-09-05T05:54Z)
+(:name ascii-table :revision 7 :last-modified 2011-01-03T15:19Z)
 (:name asciidoc :revision 1 :last-modified 2010-05-27T16:25Z)
 (:name atom-blogger :revision 3 :last-modified 2008-09-05T05:54Z)
 (:name audel :revision 5 :last-modified 2010-08-03T10:33Z)
