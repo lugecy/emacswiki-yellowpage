@@ -323,7 +323,7 @@
 (:name di :revision 4 :last-modified 2010-08-03T12:02Z)
 (:name dialog :revision 11 :last-modified 2008-09-05T05:05Z)
 (:name dict :revision 6 :last-modified 2008-09-05T05:05Z)
-(:name diff+ :revision 14 :last-modified 2010-12-19T17:36Z)
+(:name diff+ :revision 15 :last-modified 2011-01-04T15:58Z)
 (:name diff+20 :revision 17 :last-modified 2010-01-15T20:51Z)
 (:name diff-mode- :revision 16 :last-modified 2010-01-15T20:52Z)
 (:name dim-google :revision 2 :last-modified 2009-02-12T08:48Z)
