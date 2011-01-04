@@ -240,7 +240,7 @@
 (:name cm-string :revision 1 :last-modified 2009-04-11T06:23Z)
 (:name cmd-mode :revision 3 :last-modified 2008-09-05T05:53Z)
 (:name cobol-mode :revision 6 :last-modified 2008-09-05T05:53Z)
-(:name col-highlight :revision 15 :last-modified 2010-08-31T15:19Z)
+(:name col-highlight :revision 16 :last-modified 2011-01-04T03:56Z)
 (:name color-browser :revision 8 :last-modified 2008-12-16T16:27Z)
 (:name color-moccur :revision 21 :last-modified 2010-05-06T14:39Z)
 (:name color-occur :revision 6 :last-modified 2008-09-05T05:55Z)
