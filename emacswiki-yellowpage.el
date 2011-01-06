@@ -1042,7 +1042,7 @@
 (:name outlook-org :revision 1 :last-modified 2010-12-28T20:02Z)
 (:name override-keymaps :revision 2 :last-modified 2007-07-12T08:34Z)
 (:name pabbrev :revision 6 :last-modified 2010-05-26T12:08Z)
-(:name paint :revision 10 :last-modified 2011-01-05T20:33Z)
+(:name paint :revision 11 :last-modified 2011-01-05T23:06Z)
 (:name palette :revision 55 :last-modified 2011-01-04T21:09Z)
 (:name paredit-extension :revision 3 :last-modified 2009-01-27T16:08Z)
 (:name paredit-viper-compat :revision 7 :last-modified 2010-12-26T06:57Z)
