@@ -713,6 +713,7 @@
 (:name init-w3m :revision 2 :last-modified 2009-04-24T05:39Z)
 (:name init-wget :revision 1 :last-modified 2009-02-26T16:48Z)
 (:name init-yasnippet :revision 1 :last-modified 2009-02-26T16:57Z)
+(:name insert-time-string :revision 1 :last-modified 2011-01-10T22:58Z)
 (:name install-elisp :revision 12 :last-modified 2010-05-04T08:45Z)
 (:name intel-hex-mode :revision 3 :last-modified 2010-10-07T22:21Z)
 (:name interpreter-minor :revision 1 :last-modified 2010-05-27T14:37Z)
