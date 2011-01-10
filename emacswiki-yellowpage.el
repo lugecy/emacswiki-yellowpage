@@ -609,7 +609,7 @@
 (:name help-mode+ :revision 19 :last-modified 2011-01-04T18:16Z)
 (:name help-url :revision 2 :last-modified 2005-12-19T03:08Z)
 (:name hexcolour :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name hexrgb :revision 50 :last-modified 2011-01-03T22:37Z)
+(:name hexrgb :revision 51 :last-modified 2011-01-10T06:35Z)
 (:name hexview-mode :revision 7 :last-modified 2010-05-26T09:35Z)
 (:name hgw-init-wl :revision 1 :last-modified 2009-04-12T15:12Z)
 (:name hide-lines :revision 1 :last-modified 2006-08-26T04:43Z)
