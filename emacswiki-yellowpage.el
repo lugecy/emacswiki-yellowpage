@@ -126,7 +126,7 @@
 (:name auto-document :revision 10 :last-modified 2010-05-04T09:00Z)
 (:name auto-indent-mode :revision 31 :last-modified 2010-12-09T15:21Z)
 (:name auto-install :revision 69 :last-modified 2010-12-10T10:31Z)
-(:name auto-install-batch-list :revision 25 :last-modified 2011-01-07T00:23Z)
+(:name auto-install-batch-list :revision 26 :last-modified 2011-01-11T13:33Z)
 (:name auto-install-extension :revision 1 :last-modified 2009-01-07T12:31Z)
 (:name auto-mark :revision 7 :last-modified 2008-03-13T02:34Z)
 (:name auto-pair+ :revision 8 :last-modified 2010-11-30T20:08Z)
