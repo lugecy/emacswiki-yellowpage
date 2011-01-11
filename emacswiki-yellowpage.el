@@ -75,7 +75,7 @@
 (:name anything-el-swank-fuzzy :revision 6 :last-modified 2009-12-10T14:26Z)
 (:name anything-emms :revision 5 :last-modified 2009-05-12T15:19Z)
 (:name anything-eproject :revision 4 :last-modified 2010-02-06T11:02Z)
-(:name anything-etags :revision 25 :last-modified 2010-03-26T21:21Z)
+(:name anything-etags :revision 26 :last-modified 2011-01-11T12:36Z)
 (:name anything-extension :revision 15 :last-modified 2009-03-09T05:15Z)
 (:name anything-grep :revision 14 :last-modified 2010-06-23T20:08Z)
 (:name anything-gtags :revision 16 :last-modified 2010-02-06T12:33Z)
