@@ -1041,7 +1041,7 @@
 (:name otp :revision 5 :last-modified 2007-07-19T06:05Z)
 (:name outline+ :revision 15 :last-modified 2011-01-04T20:57Z)
 (:name outline-wiki :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name outlook-org :revision 1 :last-modified 2010-12-28T20:02Z)
+(:name outlook-org :revision 2 :last-modified 2011-01-11T06:26Z)
 (:name override-keymaps :revision 2 :last-modified 2007-07-12T08:34Z)
 (:name pabbrev :revision 6 :last-modified 2010-05-26T12:08Z)
 (:name paint :revision 11 :last-modified 2011-01-05T23:06Z)
