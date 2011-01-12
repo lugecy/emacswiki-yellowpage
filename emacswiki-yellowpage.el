@@ -540,7 +540,7 @@
 (:name gb-po-mode :revision 3 :last-modified 2009-08-09T14:23Z)
 (:name gds :revision 3 :last-modified 2007-07-06T16:03Z)
 (:name georgian :revision 2 :last-modified 2009-03-11T08:57Z)
-(:name get-rfc :revision 1 :last-modified 2007-04-07T17:55Z)
+(:name get-rfc :revision 2 :last-modified 2011-01-12T12:18Z)
 (:name ghc-modules :revision 4 :last-modified 2009-02-25T21:17Z)
 (:name git-dwim :revision 3 :last-modified 2010-07-17T06:14Z)
 (:name glade-mode :revision 3 :last-modified 2007-06-16T19:35Z)
