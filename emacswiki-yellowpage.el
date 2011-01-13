@@ -1440,6 +1440,7 @@
 (:name vc-bzr :revision 11 :last-modified 2008-01-04T00:21Z)
 (:name vc-darcs :revision 10 :last-modified 2009-01-30T10:18Z)
 (:name vc-hooks+ :revision 13 :last-modified 2011-01-04T22:56Z)
+(:name vc-jump :revision 2 :last-modified 2011-01-13T13:46Z)
 (:name vel :revision 5 :last-modified 2008-01-21T00:55Z)
 (:name versions :revision 7 :last-modified 2010-11-02T03:42Z)
 (:name vhdl-goto-def :revision 2 :last-modified 2009-03-09T17:33Z)
