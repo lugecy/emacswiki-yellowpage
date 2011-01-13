@@ -146,7 +146,7 @@
 (:name basic :revision 10 :last-modified 2009-04-18T20:23Z)
 (:name basic-edit-toolkit :revision 4 :last-modified 2009-03-29T03:55Z)
 (:name basic-mode :revision 9 :last-modified 2008-12-13T18:04Z)
-(:name batch-mode :revision 9 :last-modified 2010-07-27T14:36Z)
+(:name batch-mode :revision 11 :last-modified 2011-01-13T09:52Z)
 (:name bazaar :revision 8 :last-modified 2008-09-05T05:55Z)
 (:name bbdb-mew :revision 1 :last-modified 2009-09-13T15:09Z)
 (:name bbdb-sms :revision 3 :last-modified 2009-10-09T02:52Z)
