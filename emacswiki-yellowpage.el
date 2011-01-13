@@ -1034,6 +1034,7 @@
 (:name org-outlook :revision 2 :last-modified 2010-10-21T22:17Z)
 (:name org-pua :revision 1 :last-modified 2009-04-11T17:08Z)
 (:name org-publish :revision 1 :last-modified 2008-02-20T08:06Z)
+(:name org-table-comment :revision 2 :last-modified 2011-01-13T19:35Z)
 (:name organizer-mode :revision 7 :last-modified 2009-03-29T00:52Z)
 (:name orgfold :revision 2 :last-modified 2009-07-25T19:30Z)
 (:name orgfold-separate-file :revision 2 :last-modified 2009-07-26T19:08Z)
