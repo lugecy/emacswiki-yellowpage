@@ -446,7 +446,7 @@
 (:name erc-tex :revision 3 :last-modified 2009-09-14T01:13Z)
 (:name erc-track-xmas :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name erec :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name erefactor :revision 1 :last-modified 2011-01-15T06:08Z)
+(:name erefactor :revision 2 :last-modified 2011-01-16T11:46Z)
 (:name ergo-movement-mode :revision 17 :last-modified 2010-08-03T12:20Z)
 (:name erobot :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name esv :revision 17 :last-modified 2010-08-03T12:22Z)
