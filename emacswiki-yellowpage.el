@@ -1049,7 +1049,6 @@
 (:name paint :revision 11 :last-modified 2011-01-05T23:06Z)
 (:name palette :revision 55 :last-modified 2011-01-04T21:09Z)
 (:name paredit-extension :revision 3 :last-modified 2009-01-27T16:08Z)
-(:name paredit-viper-compat :revision 7 :last-modified 2010-12-26T06:57Z)
 (:name parenthesis :revision 3 :last-modified 2008-05-25T16:55Z)
 (:name parser :revision 6 :last-modified 2008-04-10T06:35Z)
 (:name parser-fn :revision 2 :last-modified 2008-04-09T02:07Z)
