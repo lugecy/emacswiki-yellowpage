@@ -885,7 +885,7 @@
 (:name mon-doc-help-pacman :revision 2 :last-modified 2009-12-08T19:02Z)
 (:name mon-doc-help-proprietary :revision 1 :last-modified 2010-02-17T00:03Z)
 (:name mon-doc-help-tidy :revision 2 :last-modified 2010-06-21T02:28Z)
-(:name mon-doc-help-utils :revision 78 :last-modified 2011-01-15T23:47Z)
+(:name mon-doc-help-utils :revision 79 :last-modified 2011-01-17T22:58Z)
 (:name mon-doc-help-utils-supplemental :revision 5 :last-modified 2010-02-25T01:37Z)
 (:name mon-drive-transfer-utils :revision 15 :last-modified 2010-05-19T22:38Z)
 (:name mon-empty-registers :revision 21 :last-modified 2010-11-26T03:49Z)
