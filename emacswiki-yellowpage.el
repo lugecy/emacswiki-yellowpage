@@ -1314,7 +1314,7 @@
 (:name subedit :revision 3 :last-modified 2007-11-01T09:13Z)
 (:name submerge :revision 1 :last-modified 2009-04-11T06:25Z)
 (:name subr-21 :revision 9 :last-modified 2008-01-02T03:14Z)
-(:name sudo-ext :revision 3 :last-modified 2010-10-21T23:18Z)
+(:name sudo-ext :revision 4 :last-modified 2011-01-17T07:10Z)
 (:name sudo-save :revision 2 :last-modified 2008-12-03T21:37Z)
 (:name summarye :revision 2 :last-modified 2010-08-03T13:18Z)
 (:name sunrise-commander :revision 98 :last-modified 2011-01-12T21:36Z)
