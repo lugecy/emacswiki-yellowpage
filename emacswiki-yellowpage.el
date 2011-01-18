@@ -1266,7 +1266,7 @@
 (:name ska-skel-matlab :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name slime-company :revision 1 :last-modified 2009-11-19T16:23Z)
 (:name slime-loads :revision 1 :last-modified 2010-09-07T21:44Z)
-(:name slime-loads-GNU-clbuild :revision 5 :last-modified 2011-01-14T22:59Z)
+(:name slime-loads-GNU-clbuild :revision 6 :last-modified 2011-01-18T19:03Z)
 (:name sln-mode :revision 3 :last-modified 2009-09-21T09:20Z)
 (:name slurp :revision 14 :last-modified 2010-08-03T13:17Z)
 (:name smart-compile+ :revision 5 :last-modified 2007-01-20T02:51Z)
