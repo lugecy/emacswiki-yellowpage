@@ -1100,6 +1100,7 @@
 (:name popup-pos-tip :revision 4 :last-modified 2010-04-29T09:58Z)
 (:name popup-ruler :revision 12 :last-modified 2007-02-09T14:08Z)
 (:name popup-select-window :revision 3 :last-modified 2010-09-25T07:34Z)
+(:name popwin :revision 1 :last-modified 2011-01-20T10:21Z)
 (:name portage :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name pos-tip :revision 41 :last-modified 2010-09-27T11:13Z)
 (:name pp+ :revision 23 :last-modified 2011-01-04T21:11Z)
