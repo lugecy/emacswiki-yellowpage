@@ -922,7 +922,7 @@
 (:name mon-tramp-utils :revision 3 :last-modified 2009-11-22T08:04Z)
 (:name mon-type-utils :revision 4 :last-modified 2011-01-15T01:14Z)
 (:name mon-type-utils-vars :revision 3 :last-modified 2011-01-15T23:04Z)
-(:name mon-url-utils :revision 20 :last-modified 2011-01-20T21:57Z)
+(:name mon-url-utils :revision 21 :last-modified 2011-01-24T17:35Z)
 (:name mon-utils :revision 89 :last-modified 2011-01-15T01:08Z)
 (:name mon-w32-load :revision 2 :last-modified 2009-09-23T20:13Z)
 (:name mon-wget-utils :revision 6 :last-modified 2010-06-15T23:55Z)
