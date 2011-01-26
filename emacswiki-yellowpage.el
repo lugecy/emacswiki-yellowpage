@@ -1183,7 +1183,7 @@
 (:name require-or-install :revision 1 :last-modified 2007-09-19T16:38Z)
 (:name rewrite :revision 5 :last-modified 2010-08-03T13:10Z)
 (:name rfc :revision 5 :last-modified 2008-12-16T17:59Z)
-(:name ri :revision 2 :last-modified 2008-10-20T18:24Z)
+(:name ri :revision 3 :last-modified 2011-01-26T21:22Z)
 (:name ricette-mode :revision 5 :last-modified 2009-03-09T16:39Z)
 (:name rijndael :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name ring+ :revision 14 :last-modified 2011-01-04T21:43Z)
