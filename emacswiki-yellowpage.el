@@ -212,7 +212,7 @@
 (:name cal-opts :revision 17 :last-modified 2011-01-03T23:47Z)
 (:name calendar+ :revision 16 :last-modified 2011-01-03T23:55Z)
 (:name cc-mode+ :revision 16 :last-modified 2011-01-03T23:57Z)
-(:name cdb-gud :revision 10 :last-modified 2009-03-27T17:38Z)
+(:name cdb-gud :revision 11 :last-modified 2011-01-27T00:37Z)
 (:name cdi :revision 5 :last-modified 2008-09-05T05:54Z)
 (:name celssc-mode :revision 6 :last-modified 2010-11-24T20:30Z)
 (:name centered-cursor-mode :revision 23 :last-modified 2010-03-10T13:48Z)
