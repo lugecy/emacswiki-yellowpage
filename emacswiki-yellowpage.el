@@ -1147,7 +1147,7 @@
 (:name rcirc-extension :revision 1 :last-modified 2009-02-05T17:15Z)
 (:name rcirc-groups :revision 2 :last-modified 2010-08-06T21:37Z)
 (:name rcirc-late-fix :revision 8 :last-modified 2011-01-31T04:27Z)
-(:name rcirc-notify :revision 10 :last-modified 2009-10-17T00:29Z)
+(:name rcirc-notify :revision 11 :last-modified 2011-01-31T05:49Z)
 (:name rcirc-notify+ :revision 3 :last-modified 2009-01-11T03:03Z)
 (:name rcirc-notify-mode :revision 1 :last-modified 2010-12-28T13:31Z)
 (:name rcirc-pounce :revision 7 :last-modified 2008-12-04T18:58Z)
