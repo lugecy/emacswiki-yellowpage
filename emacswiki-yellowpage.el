@@ -210,6 +210,7 @@
 (:name cal-desk-calendar :revision 8 :last-modified 2008-09-05T05:54Z)
 (:name cal-html :revision 4 :last-modified 2008-09-05T05:54Z)
 (:name cal-opts :revision 17 :last-modified 2011-01-03T23:47Z)
+(:name calc-inline :revision 1 :last-modified 2011-02-01T22:50Z)
 (:name calendar+ :revision 16 :last-modified 2011-01-03T23:55Z)
 (:name cc-mode+ :revision 16 :last-modified 2011-01-03T23:57Z)
 (:name cdb-gud :revision 11 :last-modified 2011-01-27T00:37Z)
