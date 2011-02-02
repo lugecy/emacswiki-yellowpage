@@ -1134,7 +1134,7 @@
 (:name qsearch :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name query :revision 5 :last-modified 2010-08-03T13:05Z)
 (:name queue-mail :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name rainbow-delimiters :revision 5 :last-modified 2010-10-15T18:33Z)
+(:name rainbow-delimiters :revision 6 :last-modified 2011-02-02T08:51Z)
 (:name random-idle-quote :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name random-quote :revision 1 :last-modified 2010-06-09T13:45Z)
 (:name rational :revision 2 :last-modified 2007-04-05T04:52Z)
