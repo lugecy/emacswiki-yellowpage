@@ -599,7 +599,7 @@
 (:name hannum :revision 1 :last-modified 2006-10-23T03:47Z)
 (:name haskell-extension :revision 1 :last-modified 2009-01-11T07:57Z)
 (:name haskell-tweet-errors :revision 1 :last-modified 2010-04-04T00:36Z)
-(:name header2 :revision 42 :last-modified 2011-01-04T17:55Z)
+(:name header2 :revision 43 :last-modified 2011-02-03T16:04Z)
 (:name help+ :revision 42 :last-modified 2011-01-04T17:58Z)
 (:name help+20 :revision 27 :last-modified 2011-01-04T18:02Z)
 (:name help-dwim :revision 4 :last-modified 2008-04-12T19:12Z)
