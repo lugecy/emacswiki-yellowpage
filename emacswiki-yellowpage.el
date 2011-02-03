@@ -327,7 +327,7 @@
 (:name diff+20 :revision 18 :last-modified 2011-01-04T16:00Z)
 (:name diff-mode- :revision 17 :last-modified 2011-01-04T16:03Z)
 (:name dim-google :revision 2 :last-modified 2009-02-12T08:48Z)
-(:name dired+ :revision 93 :last-modified 2011-01-13T07:27Z)
+(:name dired+ :revision 94 :last-modified 2011-02-03T18:09Z)
 (:name dired-column-widths :revision 6 :last-modified 2009-03-09T17:54Z)
 (:name dired-details :revision 6 :last-modified 2008-09-05T05:54Z)
 (:name dired-details+ :revision 28 :last-modified 2011-01-04T16:21Z)
