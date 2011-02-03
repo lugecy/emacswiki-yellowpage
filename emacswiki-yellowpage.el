@@ -190,7 +190,7 @@
 (:name browse-urn :revision 4 :last-modified 2008-09-05T05:54Z)
 (:name bst-mode :revision 6 :last-modified 2008-09-05T05:54Z)
 (:name btjunkie-search :revision 1 :last-modified 2009-10-18T19:33Z)
-(:name buff-menu+ :revision 52 :last-modified 2011-01-03T23:41Z)
+(:name buff-menu+ :revision 53 :last-modified 2011-02-03T21:16Z)
 (:name buffer-extension :revision 4 :last-modified 2009-04-11T01:55Z)
 (:name buffer-move :revision 9 :last-modified 2010-08-03T11:29Z)
 (:name buffer-ring :revision 2 :last-modified 2009-04-16T23:00Z)
