@@ -763,7 +763,7 @@
 (:name kis-project :revision 2 :last-modified 2006-04-30T09:33Z)
 (:name kokopelli :revision 11 :last-modified 2010-08-03T12:39Z)
 (:name lacarte :revision 14 :last-modified 2011-01-04T19:00Z)
-(:name langtool :revision 1 :last-modified 2011-02-05T02:25Z)
+(:name langtool :revision 2 :last-modified 2011-02-05T09:15Z)
 (:name later-do :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name latex-math-preview :revision 31 :last-modified 2010-09-19T04:46Z)
 (:name latex-math-preview-extra-data :revision 1 :last-modified 2009-08-06T08:38Z)
