@@ -1419,7 +1419,7 @@
 (:name tsv-mode :revision 2 :last-modified 2006-09-12T11:11Z)
 (:name tumbl :revision 5 :last-modified 2008-12-08T18:56Z)
 (:name tumme :revision 6 :last-modified 2005-11-07T08:37Z)
-(:name twit :revision 80 :last-modified 2010-02-08T14:43Z)
+(:name twit :revision 81 :last-modified 2011-02-08T15:32Z)
 (:name two-mode-mode :revision 2 :last-modified 2009-03-25T17:54Z)
 (:name type-test :revision 1 :last-modified 2006-09-06T09:52Z)
 (:name typing :revision 8 :last-modified 2009-12-24T18:27Z)
