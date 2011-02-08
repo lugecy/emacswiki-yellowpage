@@ -1344,7 +1344,7 @@
 (:name tab-in-tabular :revision 4 :last-modified 2010-08-03T13:21Z)
 (:name tabbar :revision 6 :last-modified 2010-11-23T00:41Z)
 (:name tabbar-extension :revision 1 :last-modified 2009-01-10T17:34Z)
-(:name tabbar-ruler :revision 5 :last-modified 2010-12-01T21:40Z)
+(:name tabbar-ruler :revision 7 :last-modified 2011-02-08T21:02Z)
 (:name tacl-mode :revision 7 :last-modified 2006-10-20T20:26Z)
 (:name tacl-syntax :revision 7 :last-modified 2005-12-29T13:27Z)
 (:name tag :revision 5 :last-modified 2009-11-21T00:42Z)
