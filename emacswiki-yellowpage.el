@@ -454,6 +454,7 @@
 (:name etags-stack :revision 1 :last-modified 2008-08-16T01:03Z)
 (:name etags-table :revision 2 :last-modified 2009-03-27T17:37Z)
 (:name etom :revision 2 :last-modified 2007-07-03T13:36Z)
+(:name etop :revision 1 :last-modified 2011-02-09T03:52Z)
 (:name etxt :revision 1 :last-modified 2007-01-22T18:51Z)
 (:name eukleides :revision 3 :last-modified 2006-06-07T11:15Z)
 (:name eval-sexp-fu :revision 1 :last-modified 2009-11-19T16:33Z)
