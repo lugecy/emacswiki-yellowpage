@@ -1453,7 +1453,7 @@
 (:name vhdl-goto-def :revision 2 :last-modified 2009-03-09T17:33Z)
 (:name vhdl-process-wave :revision 2 :last-modified 2005-10-14T10:07Z)
 (:name viewer :revision 3 :last-modified 2010-05-04T08:56Z)
-(:name vim-elscreen :revision 1 :last-modified 2011-02-08T17:22Z)
+(:name vim-elscreen :revision 2 :last-modified 2011-02-11T06:54Z)
 (:name vimpulse :revision 43 :last-modified 2010-09-12T13:05Z)
 (:name viper-in-more-modes :revision 9 :last-modified 2010-03-18T17:04Z)
 (:name visible-lines :revision 3 :last-modified 2008-01-27T05:59Z)
