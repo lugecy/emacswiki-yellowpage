@@ -176,7 +176,7 @@
 (:name bmi :revision 5 :last-modified 2010-05-12T15:19Z)
 (:name bookmark+ :revision 284 :last-modified 2011-01-03T18:52Z)
 (:name bookmark+-1 :revision 24 :last-modified 2011-01-03T22:12Z)
-(:name bookmark+-bmu :revision 12 :last-modified 2011-01-03T22:17Z)
+(:name bookmark+-bmu :revision 13 :last-modified 2011-02-11T22:00Z)
 (:name bookmark+-chg :revision 29 :last-modified 2011-01-03T22:22Z)
 (:name bookmark+-doc :revision 51 :last-modified 2011-01-03T22:21Z)
 (:name bookmark+-lit :revision 10 :last-modified 2011-01-03T22:20Z)
