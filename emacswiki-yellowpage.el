@@ -361,7 +361,7 @@
 (:name doremi-cmd :revision 33 :last-modified 2011-01-04T16:27Z)
 (:name doremi-frm :revision 56 :last-modified 2011-01-04T16:38Z)
 (:name doremi-mac :revision 20 :last-modified 2011-01-04T16:40Z)
-(:name dos :revision 27 :last-modified 2010-09-20T15:18Z)
+(:name dos :revision 28 :last-modified 2011-02-14T17:26Z)
 (:name dos-indent :revision 5 :last-modified 2010-08-03T12:05Z)
 (:name dot-emacs-helper :revision 5 :last-modified 2008-09-05T05:54Z)
 (:name dot-mode :revision 8 :last-modified 2010-08-03T12:08Z)
