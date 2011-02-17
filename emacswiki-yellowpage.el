@@ -16,7 +16,7 @@
 (:name LazyCatStartup :revision 2 :last-modified 2009-02-12T07:49Z)
 (:name LazyCatTheme :revision 4 :last-modified 2009-04-19T02:27Z)
 (:name Pastie :revision 5 :last-modified 2008-12-06T16:50Z)
-(:name Powershell :revision 5 :last-modified 2010-05-21T06:20Z)
+(:name Powershell :revision 7 :last-modified 2011-02-17T17:11Z)
 (:name STING-software-engineering-glossary :revision 8 :last-modified 2009-08-28T18:49Z)
 (:name SuperDuperRedundantPlus+ :revision 1 :last-modified 2009-12-14T23:58Z)
 (:name TeXMed :revision 6 :last-modified 2010-08-03T10:22Z)
