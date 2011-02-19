@@ -470,7 +470,7 @@
 (:name eyedropper :revision 16 :last-modified 2011-01-04T16:54Z)
 (:name face-list :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name face-remap+ :revision 5 :last-modified 2011-01-04T17:06Z)
-(:name facebook :revision 2 :last-modified 2009-10-07T17:31Z)
+(:name facebook :revision 5 :last-modified 2011-02-19T07:32Z)
 (:name facemenu+ :revision 54 :last-modified 2011-02-16T08:19Z)
 (:name faces+ :revision 20 :last-modified 2011-01-04T17:09Z)
 (:name fade-out-kill-buffer :revision 2 :last-modified 2005-10-15T01:40Z)
