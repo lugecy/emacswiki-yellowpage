@@ -84,7 +84,7 @@
 (:name anything-irfc :revision 2 :last-modified 2009-02-13T05:02Z)
 (:name anything-kyr :revision 2 :last-modified 2009-03-04T00:02Z)
 (:name anything-kyr-config :revision 2 :last-modified 2009-03-04T00:02Z)
-(:name anything-match-plugin :revision 23 :last-modified 2010-09-14T21:30Z)
+(:name anything-match-plugin :revision 24 :last-modified 2011-02-20T04:28Z)
 (:name anything-menu :revision 1 :last-modified 2010-04-01T12:10Z)
 (:name anything-mercurial :revision 11 :last-modified 2010-08-29T06:21Z)
 (:name anything-migemo :revision 13 :last-modified 2010-04-28T08:12Z)
