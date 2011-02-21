@@ -330,7 +330,7 @@
 (:name dim-google :revision 2 :last-modified 2009-02-12T08:48Z)
 (:name dired+ :revision 95 :last-modified 2011-02-11T16:16Z)
 (:name dired-column-widths :revision 6 :last-modified 2009-03-09T17:54Z)
-(:name dired-details :revision 6 :last-modified 2008-09-05T05:54Z)
+(:name dired-details :revision 7 :last-modified 2011-02-21T02:48Z)
 (:name dired-details+ :revision 28 :last-modified 2011-01-04T16:21Z)
 (:name dired-efap :revision 2 :last-modified 2010-05-21T00:25Z)
 (:name dired-extension :revision 5 :last-modified 2009-02-11T06:54Z)
