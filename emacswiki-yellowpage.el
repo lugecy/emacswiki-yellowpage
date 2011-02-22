@@ -107,7 +107,7 @@
 (:name apt-utils :revision 14 :last-modified 2008-09-05T05:54Z)
 (:name archive-region :revision 1 :last-modified 2010-05-09T02:00Z)
 (:name armenian :revision 1 :last-modified 2009-03-11T08:57Z)
-(:name arrange-buffers :revision 2 :last-modified 2011-02-22T16:09Z)
+(:name arrange-buffers :revision 3 :last-modified 2011-02-22T19:43Z)
 (:name artist-xmas :revision 6 :last-modified 2008-09-05T05:53Z)
 (:name arxiv-reader :revision 8 :last-modified 2009-10-23T05:23Z)
 (:name ascii :revision 8 :last-modified 2011-01-12T02:58Z)
