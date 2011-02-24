@@ -40,7 +40,7 @@
 (:name aes :revision 3 :last-modified 2008-10-02T20:18Z)
 (:name ajc-java-complete :revision 4 :last-modified 2011-02-24T14:15Z)
 (:name ajc-java-complete-config :revision 3 :last-modified 2011-02-24T14:17Z)
-(:name ajc-java-complete-my-config-example :revision 1 :last-modified 2010-12-27T14:01Z)
+(:name ajc-java-complete-my-config-example :revision 2 :last-modified 2011-02-24T15:51Z)
 (:name akkadian :revision 1 :last-modified 2009-03-11T08:58Z)
 (:name alacarte :revision 8 :last-modified 2008-09-05T05:53Z)
 (:name alarm :revision 2 :last-modified 2009-01-06T06:15Z)
