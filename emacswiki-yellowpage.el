@@ -661,7 +661,7 @@
 (:name idle-scroll :revision 8 :last-modified 2009-11-21T00:40Z)
 (:name idlehelp :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name idomenu :revision 3 :last-modified 2010-02-10T23:00Z)
-(:name iedit :revision 2 :last-modified 2010-03-13T09:27Z)
+(:name iedit :revision 3 :last-modified 2011-02-25T07:18Z)
 (:name ifind :revision 5 :last-modified 2009-03-09T16:35Z)
 (:name ifind-mode :revision 1 :last-modified 2010-04-06T20:55Z)
 (:name igrep :revision 8 :last-modified 2009-12-24T18:27Z)
