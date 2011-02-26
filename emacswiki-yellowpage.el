@@ -1215,6 +1215,7 @@
 (:name save-and-dwim :revision 2 :last-modified 2010-08-03T13:13Z)
 (:name save-load-path :revision 1 :last-modified 2010-05-20T22:54Z)
 (:name savehist-20+ :revision 13 :last-modified 2011-02-24T23:56Z)
+(:name savekill :revision 1 :last-modified 2011-02-26T08:30Z)
 (:name saw-client :revision 1 :last-modified 2009-03-12T18:41Z)
 (:name scheme-complete :revision 2 :last-modified 2010-08-03T13:14Z)
 (:name scheme-here :revision 4 :last-modified 2008-12-08T17:11Z)
