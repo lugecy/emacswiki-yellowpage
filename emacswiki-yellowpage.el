@@ -508,6 +508,7 @@
 (:name fixme-mode :revision 2 :last-modified 2010-06-23T19:43Z)
 (:name flashcard-sm5 :revision 6 :last-modified 2006-09-01T13:00Z)
 (:name flashmaker :revision 4 :last-modified 2005-10-13T17:56Z)
+(:name flex-isearch :revision 1 :last-modified 2011-02-26T03:14Z)
 (:name fliptext :revision 3 :last-modified 2007-12-09T13:03Z)
 (:name flobl :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name flydoc :revision 7 :last-modified 2008-05-11T03:25Z)
