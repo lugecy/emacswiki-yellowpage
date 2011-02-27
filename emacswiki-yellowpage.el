@@ -1445,7 +1445,7 @@
 (:name usage-memo :revision 11 :last-modified 2010-05-09T21:36Z)
 (:name use-package :revision 3 :last-modified 2007-08-17T18:29Z)
 (:name uuid :revision 4 :last-modified 2010-11-10T02:57Z)
-(:name vbnet-mode :revision 3 :last-modified 2011-02-27T00:35Z)
+(:name vbnet-mode :revision 4 :last-modified 2011-02-27T19:32Z)
 (:name vbs-repl :revision 7 :last-modified 2009-02-20T23:08Z)
 (:name vc+ :revision 18 :last-modified 2011-01-04T22:53Z)
 (:name vc- :revision 13 :last-modified 2011-01-04T22:54Z)
