@@ -1373,6 +1373,7 @@
 (:name template-simple :revision 3 :last-modified 2008-04-12T15:20Z)
 (:name tempo-c-cpp :revision 2 :last-modified 2008-01-18T15:17Z)
 (:name tempo-x :revision 4 :last-modified 2008-04-12T14:44Z)
+(:name term-toggle :revision 1 :last-modified 2011-03-02T07:08Z)
 (:name test :revision 5 :last-modified 2009-08-11T09:16Z)
 (:name texmate-import :revision 29 :last-modified 2010-11-09T16:50Z)
 (:name text-translator :revision 9 :last-modified 2011-01-10T16:06Z)
