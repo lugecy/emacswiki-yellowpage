@@ -492,7 +492,7 @@
 (:name file-template :revision 1 :last-modified 2007-12-05T15:16Z)
 (:name files+ :revision 29 :last-modified 2011-01-04T17:21Z)
 (:name filesets+ :revision 5 :last-modified 2011-01-04T17:22Z)
-(:name fill-column-rule :revision 11 :last-modified 2011-03-02T01:11Z)
+(:name fill-column-rule :revision 12 :last-modified 2011-03-04T04:31Z)
 (:name fillcode :revision 8 :last-modified 2007-08-24T17:58Z)
 (:name find-dired+ :revision 16 :last-modified 2011-01-04T17:25Z)
 (:name find-dired++ :revision 1 :last-modified 2007-08-27T03:02Z)
