@@ -194,7 +194,7 @@
 (:name btjunkie-search :revision 1 :last-modified 2009-10-18T19:33Z)
 (:name buff-menu+ :revision 55 :last-modified 2011-02-24T22:47Z)
 (:name buffer-extension :revision 4 :last-modified 2009-04-11T01:55Z)
-(:name buffer-move :revision 9 :last-modified 2010-08-03T11:29Z)
+(:name buffer-move :revision 10 :last-modified 2011-03-05T02:49Z)
 (:name buffer-ring :revision 2 :last-modified 2009-04-16T23:00Z)
 (:name buffer-stack :revision 2 :last-modified 2010-12-23T10:20Z)
 (:name buffer-stack-suppl :revision 1 :last-modified 2010-12-22T16:23Z)
