@@ -1510,7 +1510,7 @@
 (:name weblogger :revision 11 :last-modified 2010-03-09T17:45Z)
 (:name weekly-view :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name wget-extension :revision 1 :last-modified 2009-03-12T18:06Z)
-(:name wgrep :revision 9 :last-modified 2011-01-15T06:20Z)
+(:name wgrep :revision 10 :last-modified 2011-03-06T11:30Z)
 (:name whine :revision 2 :last-modified 2009-12-22T15:30Z)
 (:name whitespace :revision 22 :last-modified 2010-12-09T11:00Z)
 (:name wid-edit+ :revision 13 :last-modified 2011-01-04T23:05Z)
