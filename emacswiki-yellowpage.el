@@ -69,7 +69,7 @@
 (:name anything-c-shell-history :revision 2 :last-modified 2009-02-24T12:03Z)
 (:name anything-complete :revision 49 :last-modified 2011-02-24T13:19Z)
 (:name anything-config :revision 331 :last-modified 2011-03-02T02:01Z)
-(:name anything-dabbrev-expand :revision 15 :last-modified 2009-04-20T16:26Z)
+(:name anything-dabbrev-expand :revision 16 :last-modified 2011-03-07T17:00Z)
 (:name anything-delicious :revision 17 :last-modified 2010-08-29T06:21Z)
 (:name anything-el-swank-fuzzy :revision 6 :last-modified 2009-12-10T14:26Z)
 (:name anything-emms :revision 5 :last-modified 2009-05-12T15:19Z)
