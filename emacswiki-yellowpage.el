@@ -888,7 +888,7 @@
 (:name mon-dir-utils :revision 29 :last-modified 2011-01-19T19:32Z)
 (:name mon-dir-utils-local :revision 3 :last-modified 2010-11-26T03:38Z)
 (:name mon-doc-help-CL :revision 20 :last-modified 2011-01-20T23:18Z)
-(:name mon-doc-help-char-encoding-lossage :revision 1 :last-modified 2011-03-06T04:22Z)
+(:name mon-doc-help-char-encoding-lossage :revision 3 :last-modified 2011-03-07T20:48Z)
 (:name mon-doc-help-css :revision 3 :last-modified 2010-08-07T21:59Z)
 (:name mon-doc-help-mail :revision 1 :last-modified 2010-08-31T17:38Z)
 (:name mon-doc-help-pacman :revision 2 :last-modified 2009-12-08T19:02Z)
