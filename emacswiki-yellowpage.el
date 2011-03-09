@@ -1127,6 +1127,8 @@
 (:name prev-next-buffer :revision 3 :last-modified 2008-01-09T12:24Z)
 (:name procmaillog :revision 5 :last-modified 2005-10-13T17:56Z)
 (:name procomm-mode :revision 2 :last-modified 2011-01-20T19:50Z)
+(:name profile-lisp :revision 2 :last-modified 2011-03-09T21:05Z)
+(:name profile-template :revision 1 :last-modified 2011-03-09T21:30Z)
 (:name profiles :revision 5 :last-modified 2009-04-05T15:25Z)
 (:name project-buffer-mode :revision 5 :last-modified 2009-09-21T09:17Z)
 (:name project-buffer-mode+ :revision 2 :last-modified 2009-09-21T09:27Z)
