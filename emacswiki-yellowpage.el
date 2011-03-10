@@ -951,7 +951,7 @@
 (:name mpris-track-list :revision 5 :last-modified 2010-06-08T13:28Z)
 (:name mpthreeplayer :revision 2 :last-modified 2005-07-31T16:19Z)
 (:name mpthreeplayer-sco :revision 2 :last-modified 2005-07-31T16:22Z)
-(:name msearch :revision 12 :last-modified 2010-08-12T22:13Z)
+(:name msearch :revision 13 :last-modified 2011-03-10T15:18Z)
 (:name msf-abbrev :revision 6 :last-modified 2006-11-27T14:20Z)
 (:name msgcodes :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name mss :revision 7 :last-modified 2009-03-09T16:38Z)
