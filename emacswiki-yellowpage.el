@@ -798,7 +798,7 @@
 (:name list-register :revision 5 :last-modified 2008-03-10T14:27Z)
 (:name lively :revision 1 :last-modified 2010-10-10T13:14Z)
 (:name lnk :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name locales :revision 4 :last-modified 2011-03-16T06:46Z)
+(:name locales :revision 5 :last-modified 2011-03-16T07:49Z)
 (:name log-buffer :revision 1 :last-modified 2007-08-27T02:51Z)
 (:name lojban :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name lojban-mode :revision 4 :last-modified 2005-10-13T17:56Z)
