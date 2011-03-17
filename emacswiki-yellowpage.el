@@ -294,7 +294,7 @@
 (:name css-mode-simple :revision 6 :last-modified 2008-09-05T05:54Z)
 (:name css-palette :revision 1 :last-modified 2008-12-13T14:17Z)
 (:name cssh :revision 12 :last-modified 2010-07-22T21:17Z)
-(:name csv-mode :revision 2 :last-modified 2010-10-26T22:04Z)
+(:name csv-mode :revision 3 :last-modified 2011-03-17T02:50Z)
 (:name csv-nav :revision 5 :last-modified 2009-11-21T00:37Z)
 (:name ctypes :revision 7 :last-modified 2009-08-19T00:53Z)
 (:name cursor-chg :revision 13 :last-modified 2011-01-04T04:31Z)
