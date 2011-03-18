@@ -188,7 +188,7 @@
 (:name bpath :revision 3 :last-modified 2009-04-14T06:23Z)
 (:name bracketphobia :revision 5 :last-modified 2008-09-05T05:53Z)
 (:name browse-kill-ring :revision 7 :last-modified 2009-01-20T05:01Z)
-(:name browse-kill-ring+ :revision 15 :last-modified 2010-01-15T18:13Z)
+(:name browse-kill-ring+ :revision 16 :last-modified 2011-03-18T01:08Z)
 (:name browse-urn :revision 4 :last-modified 2008-09-05T05:54Z)
 (:name bst-mode :revision 6 :last-modified 2008-09-05T05:54Z)
 (:name btjunkie-search :revision 1 :last-modified 2009-10-18T19:33Z)
