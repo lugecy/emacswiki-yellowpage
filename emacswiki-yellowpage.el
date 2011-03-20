@@ -1151,7 +1151,7 @@
 (:name query :revision 5 :last-modified 2010-08-03T13:05Z)
 (:name queue-mail :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name quick-jump :revision 3 :last-modified 2011-03-01T08:08Z)
-(:name rainbow-delimiters :revision 10 :last-modified 2011-03-20T21:36Z)
+(:name rainbow-delimiters :revision 11 :last-modified 2011-03-20T22:09Z)
 (:name random-idle-quote :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name random-quote :revision 1 :last-modified 2010-06-09T13:45Z)
 (:name rational :revision 2 :last-modified 2007-04-05T04:52Z)
