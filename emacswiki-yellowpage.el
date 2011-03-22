@@ -1085,7 +1085,7 @@
 (:name php-doc :revision 6 :last-modified 2010-07-09T11:19Z)
 (:name php-mode-improved :revision 2 :last-modified 2008-09-01T21:44Z)
 (:name phutball :revision 5 :last-modified 2010-08-03T13:01Z)
-(:name pianobar :revision 2 :last-modified 2011-02-21T18:36Z)
+(:name pianobar :revision 3 :last-modified 2011-03-22T12:54Z)
 (:name pic-basic-mode :revision 4 :last-modified 2011-01-08T08:18Z)
 (:name pinbar :revision 1 :last-modified 2010-10-07T04:49Z)
 (:name pink-bliss :revision 18 :last-modified 2008-10-04T23:03Z)
