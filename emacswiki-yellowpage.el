@@ -268,6 +268,7 @@
 (:name compile- :revision 22 :last-modified 2011-02-24T22:52Z)
 (:name compile-20 :revision 20 :last-modified 2011-01-04T04:24Z)
 (:name compile-dwim :revision 6 :last-modified 2008-09-05T05:53Z)
+(:name compile-helper :revision 2 :last-modified 2011-03-23T11:17Z)
 (:name completion-11-4 :revision 6 :last-modified 2008-12-04T17:30Z)
 (:name completion-selection :revision 1 :last-modified 2009-04-11T17:08Z)
 (:name completion-ui-more-sources :revision 1 :last-modified 2009-04-11T17:00Z)
