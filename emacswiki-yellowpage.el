@@ -967,7 +967,7 @@
 (:name multi-eshell :revision 8 :last-modified 2009-01-03T20:59Z)
 (:name multi-scratch :revision 4 :last-modified 2009-03-13T08:45Z)
 (:name multi-shell :revision 2 :last-modified 2009-06-29T10:05Z)
-(:name multi-term :revision 18 :last-modified 2011-02-15T14:52Z)
+(:name multi-term :revision 19 :last-modified 2011-03-26T06:08Z)
 (:name multiple-line-edit :revision 14 :last-modified 2010-12-27T01:15Z)
 (:name multitran :revision 2 :last-modified 2007-12-11T13:41Z)
 (:name multiverse :revision 4 :last-modified 2008-12-17T18:11Z)
