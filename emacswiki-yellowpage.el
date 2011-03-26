@@ -71,6 +71,7 @@
 (:name anything-config :revision 331 :last-modified 2011-03-02T02:01Z)
 (:name anything-dabbrev-expand :revision 16 :last-modified 2011-03-07T17:00Z)
 (:name anything-delicious :revision 17 :last-modified 2010-08-29T06:21Z)
+(:name anything-dired-history :revision 1 :last-modified 2011-03-26T14:56Z)
 (:name anything-el-swank-fuzzy :revision 6 :last-modified 2009-12-10T14:26Z)
 (:name anything-emms :revision 5 :last-modified 2009-05-12T15:19Z)
 (:name anything-eproject :revision 4 :last-modified 2010-02-06T11:02Z)
