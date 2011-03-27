@@ -196,7 +196,7 @@
 (:name buff-menu+ :revision 55 :last-modified 2011-02-24T22:47Z)
 (:name buffer-extension :revision 4 :last-modified 2009-04-11T01:55Z)
 (:name buffer-move :revision 10 :last-modified 2011-03-05T02:49Z)
-(:name buffer-ring :revision 2 :last-modified 2009-04-16T23:00Z)
+(:name buffer-ring :revision 4 :last-modified 2011-03-27T05:16Z)
 (:name buffer-stack :revision 2 :last-modified 2010-12-23T10:20Z)
 (:name buffer-stack-suppl :revision 1 :last-modified 2010-12-22T16:23Z)
 (:name buffer-time-stamp :revision 5 :last-modified 2008-09-05T05:55Z)
