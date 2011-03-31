@@ -105,7 +105,7 @@
 (:name apply-mode-line-format :revision 6 :last-modified 2008-09-05T05:55Z)
 (:name appt :revision 20 :last-modified 2011-01-03T22:47Z)
 (:name apropos+ :revision 15 :last-modified 2011-01-03T22:48Z)
-(:name apropos-fn+var :revision 12 :last-modified 2011-01-03T22:42Z)
+(:name apropos-fn+var :revision 13 :last-modified 2011-03-31T18:00Z)
 (:name apt-utils :revision 14 :last-modified 2008-09-05T05:54Z)
 (:name archive-region :revision 1 :last-modified 2010-05-09T02:00Z)
 (:name armenian :revision 1 :last-modified 2009-03-11T08:57Z)
