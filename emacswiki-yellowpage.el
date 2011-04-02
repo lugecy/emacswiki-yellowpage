@@ -316,7 +316,7 @@
 (:name dbk :revision 4 :last-modified 2008-12-03T21:39Z)
 (:name ddl-mode :revision 11 :last-modified 2008-09-05T05:07Z)
 (:name def-face-const :revision 17 :last-modified 2011-01-04T04:48Z)
-(:name deferred :revision 2 :last-modified 2010-10-28T02:31Z)
+(:name deferred :revision 3 :last-modified 2011-04-02T11:01Z)
 (:name defshell :revision 6 :last-modified 2008-09-05T05:07Z)
 (:name delicious :revision 4 :last-modified 2008-12-13T17:53Z)
 (:name delim-col :revision 5 :last-modified 2008-09-05T05:06Z)
