@@ -760,7 +760,7 @@
 (:name joseph-autopair :revision 5 :last-modified 2011-03-04T11:23Z)
 (:name joseph-file-util :revision 2 :last-modified 2011-03-31T15:17Z)
 (:name joseph-scroll-screen :revision 1 :last-modified 2011-03-01T10:27Z)
-(:name joseph-single-dired :revision 1 :last-modified 2011-04-03T04:53Z)
+(:name joseph-single-dired :revision 2 :last-modified 2011-04-03T05:08Z)
 (:name journal :revision 1 :last-modified 2009-08-19T18:07Z)
 (:name joystick :revision 2 :last-modified 2008-12-03T21:29Z)
 (:name jpl-reformat :revision 1 :last-modified 2008-01-07T15:48Z)
