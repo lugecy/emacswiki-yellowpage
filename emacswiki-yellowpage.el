@@ -341,7 +341,7 @@
 (:name dired-details+ :revision 29 :last-modified 2011-02-24T22:59Z)
 (:name dired-efap :revision 2 :last-modified 2010-05-21T00:25Z)
 (:name dired-extension :revision 5 :last-modified 2009-02-11T06:54Z)
-(:name dired-filetype-face :revision 1 :last-modified 2011-04-04T08:08Z)
+(:name dired-filetype-face :revision 2 :last-modified 2011-04-05T01:58Z)
 (:name dired-isearch :revision 4 :last-modified 2008-09-05T05:54Z)
 (:name dired-lis :revision 7 :last-modified 2009-11-03T02:48Z)
 (:name dired-open :revision 3 :last-modified 2009-02-19T14:51Z)
