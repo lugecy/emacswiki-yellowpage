@@ -984,6 +984,7 @@
 (:name muse-tree :revision 1 :last-modified 2008-04-12T19:08Z)
 (:name muttrc-mode :revision 7 :last-modified 2009-08-04T22:52Z)
 (:name mybuffers :revision 1 :last-modified 2010-04-06T20:56Z)
+(:name myfixme :revision 1 :last-modified 2011-04-06T14:36Z)
 (:name mysql :revision 4 :last-modified 2009-02-25T12:45Z)
 (:name mythryl-mode :revision 1 :last-modified 2010-05-27T09:47Z)
 (:name naf-mode :revision 4 :last-modified 2009-12-10T20:11Z)
