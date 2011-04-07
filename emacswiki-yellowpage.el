@@ -1524,7 +1524,7 @@
 (:name wcy-display-line-number :revision 1 :last-modified 2009-04-27T07:26Z)
 (:name wcy-recentf :revision 1 :last-modified 2010-04-07T09:04Z)
 (:name wcy-swbuff :revision 5 :last-modified 2009-04-21T06:09Z)
-(:name wdired :revision 4 :last-modified 2005-10-13T17:56Z)
+(:name wdired :revision 5 :last-modified 2011-04-07T15:44Z)
 (:name wdired-extension :revision 1 :last-modified 2009-02-09T04:26Z)
 (:name webgen-mode :revision 2 :last-modified 2010-02-06T08:48Z)
 (:name weblogger :revision 11 :last-modified 2010-03-09T17:45Z)
