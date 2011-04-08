@@ -1055,7 +1055,7 @@
 (:name org-json :revision 5 :last-modified 2011-01-20T19:17Z)
 (:name org-mairix :revision 4 :last-modified 2007-10-01T21:05Z)
 (:name org-oddmuse :revision 1 :last-modified 2009-03-09T14:34Z)
-(:name org-outlook :revision 2 :last-modified 2010-10-21T22:17Z)
+(:name org-outlook :revision 3 :last-modified 2011-04-08T13:51Z)
 (:name org-pua :revision 1 :last-modified 2009-04-11T17:08Z)
 (:name org-publish :revision 1 :last-modified 2008-02-20T08:06Z)
 (:name org-table-comment :revision 4 :last-modified 2011-04-08T04:00Z)
