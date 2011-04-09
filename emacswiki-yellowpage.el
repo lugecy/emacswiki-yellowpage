@@ -126,7 +126,7 @@
 (:name auto-complete-octave :revision 6 :last-modified 2009-07-22T13:49Z)
 (:name auto-complete-verilog :revision 3 :last-modified 2009-04-26T08:52Z)
 (:name auto-document :revision 10 :last-modified 2010-05-04T09:00Z)
-(:name auto-indent-mode :revision 58 :last-modified 2011-03-09T02:50Z)
+(:name auto-indent-mode :revision 59 :last-modified 2011-04-09T04:10Z)
 (:name auto-install :revision 74 :last-modified 2011-01-29T11:12Z)
 (:name auto-install-batch-list :revision 27 :last-modified 2011-01-14T02:09Z)
 (:name auto-install-extension :revision 1 :last-modified 2009-01-07T12:31Z)
