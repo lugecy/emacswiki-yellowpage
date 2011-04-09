@@ -1534,7 +1534,7 @@
 (:name whine :revision 2 :last-modified 2009-12-22T15:30Z)
 (:name whitespace :revision 22 :last-modified 2010-12-09T11:00Z)
 (:name wid-edit+ :revision 13 :last-modified 2011-01-04T23:05Z)
-(:name wide-n :revision 11 :last-modified 2011-01-04T23:09Z)
+(:name wide-n :revision 12 :last-modified 2011-04-09T16:54Z)
 (:name widen-window :revision 2 :last-modified 2009-01-28T10:07Z)
 (:name widget-demo :revision 2 :last-modified 2008-04-18T06:24Z)
 (:name wiki :revision 5 :last-modified 2006-01-06T22:36Z)
