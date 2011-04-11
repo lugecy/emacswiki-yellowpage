@@ -1191,7 +1191,7 @@
 (:name re-builder+ :revision 4 :last-modified 2009-04-08T03:59Z)
 (:name re-builder-from-xemacs-patched :revision 2 :last-modified 2011-03-01T16:20Z)
 (:name really-simple-wiki :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name rebound :revision 5 :last-modified 2011-04-05T00:50Z)
+(:name rebound :revision 6 :last-modified 2011-04-11T07:38Z)
 (:name recentf-buffer :revision 5 :last-modified 2008-12-08T14:35Z)
 (:name recentf-ext :revision 3 :last-modified 2010-05-04T09:07Z)
 (:name reco :revision 4 :last-modified 2005-10-13T17:56Z)
