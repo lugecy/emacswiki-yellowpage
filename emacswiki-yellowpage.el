@@ -351,7 +351,7 @@
 (:name dired-sort-menu :revision 6 :last-modified 2009-01-04T00:44Z)
 (:name dired-sort-menu+ :revision 19 :last-modified 2011-01-04T16:23Z)
 (:name dired-view :revision 3 :last-modified 2008-09-05T05:55Z)
-(:name diredful :revision 3 :last-modified 2010-10-21T06:50Z)
+(:name diredful :revision 4 :last-modified 2011-04-11T11:50Z)
 (:name dirnav :revision 2 :last-modified 2009-07-06T22:51Z)
 (:name dirtree :revision 1 :last-modified 2010-01-09T10:25Z)
 (:name dirvars :revision 3 :last-modified 2008-09-05T05:55Z)
