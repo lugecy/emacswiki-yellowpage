@@ -178,7 +178,7 @@
 (:name bm-ext :revision 3 :last-modified 2008-09-05T05:53Z)
 (:name bmi :revision 5 :last-modified 2010-05-12T15:19Z)
 (:name bookmark+ :revision 286 :last-modified 2011-04-13T02:45Z)
-(:name bookmark+-1 :revision 39 :last-modified 2011-04-13T02:44Z)
+(:name bookmark+-1 :revision 40 :last-modified 2011-04-13T22:00Z)
 (:name bookmark+-bmu :revision 20 :last-modified 2011-04-13T02:45Z)
 (:name bookmark+-chg :revision 45 :last-modified 2011-04-13T02:46Z)
 (:name bookmark+-doc :revision 55 :last-modified 2011-04-02T16:53Z)
