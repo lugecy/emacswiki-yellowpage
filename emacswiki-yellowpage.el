@@ -1179,7 +1179,7 @@
 (:name rcirc-groups :revision 2 :last-modified 2010-08-06T21:37Z)
 (:name rcirc-late-fix :revision 8 :last-modified 2011-01-31T04:27Z)
 (:name rcirc-nonames-on-join :revision 1 :last-modified 2011-02-07T02:53Z)
-(:name rcirc-notify :revision 11 :last-modified 2011-01-31T05:49Z)
+(:name rcirc-notify :revision 12 :last-modified 2011-04-13T16:26Z)
 (:name rcirc-notify+ :revision 3 :last-modified 2009-01-11T03:03Z)
 (:name rcirc-notify-mode :revision 1 :last-modified 2010-12-28T13:31Z)
 (:name rcirc-pounce :revision 7 :last-modified 2008-12-04T18:58Z)
