@@ -498,7 +498,7 @@
 (:name file-template :revision 1 :last-modified 2007-12-05T15:16Z)
 (:name files+ :revision 29 :last-modified 2011-01-04T17:21Z)
 (:name filesets+ :revision 5 :last-modified 2011-01-04T17:22Z)
-(:name fill-column-indicator :revision 5 :last-modified 2011-04-15T01:42Z)
+(:name fill-column-indicator :revision 6 :last-modified 2011-04-15T22:44Z)
 (:name fill-column-rule :revision 15 :last-modified 2011-03-16T16:39Z)
 (:name fillcode :revision 8 :last-modified 2007-08-24T17:58Z)
 (:name find-dired+ :revision 16 :last-modified 2011-01-04T17:25Z)
