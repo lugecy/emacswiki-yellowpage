@@ -1055,6 +1055,7 @@
 (:name org-jira :revision 3 :last-modified 2009-06-04T15:19Z)
 (:name org-json :revision 5 :last-modified 2011-01-20T19:17Z)
 (:name org-mairix :revision 4 :last-modified 2007-10-01T21:05Z)
+(:name org-occur-goto :revision 2 :last-modified 2011-04-25T19:22Z)
 (:name org-oddmuse :revision 1 :last-modified 2009-03-09T14:34Z)
 (:name org-outlook :revision 3 :last-modified 2011-04-08T13:51Z)
 (:name org-pua :revision 1 :last-modified 2009-04-11T17:08Z)
