@@ -651,7 +651,7 @@
 (:name http-post-simple :revision 6 :last-modified 2008-11-04T22:13Z)
 (:name i-ching :revision 2 :last-modified 2009-06-08T19:20Z)
 (:name icicles :revision 847 :last-modified 2011-04-13T03:01Z)
-(:name icicles-chg :revision 640 :last-modified 2011-04-20T22:46Z)
+(:name icicles-chg :revision 641 :last-modified 2011-04-25T23:04Z)
 (:name icicles-cmd1 :revision 116 :last-modified 2011-04-13T17:19Z)
 (:name icicles-cmd2 :revision 67 :last-modified 2011-04-13T02:56Z)
 (:name icicles-doc1 :revision 272 :last-modified 2011-03-31T15:40Z)
