@@ -498,7 +498,7 @@
 (:name file-template :revision 1 :last-modified 2007-12-05T15:16Z)
 (:name files+ :revision 31 :last-modified 2011-04-25T17:40Z)
 (:name filesets+ :revision 5 :last-modified 2011-01-04T17:22Z)
-(:name fill-column-indicator :revision 11 :last-modified 2011-04-27T23:44Z)
+(:name fill-column-indicator :revision 12 :last-modified 2011-04-28T02:02Z)
 (:name fill-column-indicator-paren-hack :revision 4 :last-modified 2011-04-21T21:23Z)
 (:name fill-column-rule :revision 15 :last-modified 2011-03-16T16:39Z)
 (:name fillcode :revision 8 :last-modified 2007-08-24T17:58Z)
