@@ -652,7 +652,7 @@
 (:name i-ching :revision 2 :last-modified 2009-06-08T19:20Z)
 (:name icicles :revision 848 :last-modified 2011-04-26T22:27Z)
 (:name icicles-chg :revision 644 :last-modified 2011-04-26T22:30Z)
-(:name icicles-cmd1 :revision 118 :last-modified 2011-04-26T15:21Z)
+(:name icicles-cmd1 :revision 119 :last-modified 2011-04-29T14:58Z)
 (:name icicles-cmd2 :revision 68 :last-modified 2011-04-26T22:26Z)
 (:name icicles-doc1 :revision 273 :last-modified 2011-04-26T23:34Z)
 (:name icicles-doc2 :revision 360 :last-modified 2011-04-26T23:17Z)
