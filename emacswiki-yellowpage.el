@@ -1291,7 +1291,7 @@
 (:name shell-pop :revision 11 :last-modified 2010-02-21T14:20Z)
 (:name show-help :revision 2 :last-modified 2009-01-06T06:16Z)
 (:name show-point-mode :revision 4 :last-modified 2010-10-24T17:12Z)
-(:name show-wspace :revision 28 :last-modified 2011-01-04T22:06Z)
+(:name show-wspace :revision 32 :last-modified 2011-05-01T10:55Z)
 (:name showtip :revision 4 :last-modified 2008-03-30T02:59Z)
 (:name sie :revision 5 :last-modified 2008-12-16T18:01Z)
 (:name sierotki :revision 15 :last-modified 2009-06-23T15:59Z)
