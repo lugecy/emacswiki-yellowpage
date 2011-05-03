@@ -500,7 +500,7 @@
 (:name filesets+ :revision 5 :last-modified 2011-01-04T17:22Z)
 (:name fill-column-indicator :revision 15 :last-modified 2011-05-03T00:42Z)
 (:name fill-column-indicator-paren-hack :revision -1 :last-modified 2011-04-29T09:36Z)
-(:name fill-column-rule :revision 15 :last-modified 2011-03-16T16:39Z)
+(:name fill-column-rule :revision 16 :last-modified 2011-05-03T20:24Z)
 (:name fillcode :revision 8 :last-modified 2007-08-24T17:58Z)
 (:name find-dired+ :revision 16 :last-modified 2011-01-04T17:25Z)
 (:name find-dired++ :revision 1 :last-modified 2007-08-27T03:02Z)
