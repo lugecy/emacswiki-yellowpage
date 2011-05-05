@@ -632,7 +632,7 @@
 (:name hidesearch :revision 1 :last-modified 2007-06-05T16:17Z)
 (:name hideshow-fringe :revision 2 :last-modified 2009-04-23T06:37Z)
 (:name hideshowvis :revision 4 :last-modified 2010-08-26T21:07Z)
-(:name highlight :revision 60 :last-modified 2011-02-24T23:21Z)
+(:name highlight :revision 61 :last-modified 2011-05-05T18:18Z)
 (:name highlight-beyond-fill-column :revision 1 :last-modified 2010-06-09T13:43Z)
 (:name highlight-cl :revision 3 :last-modified 2009-10-12T17:30Z)
 (:name highlight-current-line :revision 4 :last-modified 2005-10-13T17:56Z)
