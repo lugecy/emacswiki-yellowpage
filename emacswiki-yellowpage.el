@@ -601,7 +601,7 @@
 (:name grep-ed :revision 2 :last-modified 2010-08-03T12:28Z)
 (:name grep-edit :revision 14 :last-modified 2010-07-07T21:05Z)
 (:name grep-o-matic :revision 2 :last-modified 2008-12-29T20:32Z)
-(:name growl :revision 1 :last-modified 2006-05-16T00:14Z)
+(:name growl :revision 2 :last-modified 2011-05-05T20:54Z)
 (:name gst-inspect :revision 2 :last-modified 2010-09-24T17:04Z)
 (:name gtk-perl :revision 4 :last-modified 2007-07-25T17:58Z)
 (:name gtk2hs :revision 4 :last-modified 2010-08-10T06:18Z)
