@@ -870,7 +870,7 @@
 (:name minor-mode-hack :revision 3 :last-modified 2010-01-07T22:25Z)
 (:name mirror :revision 8 :last-modified 2009-12-24T18:27Z)
 (:name mirror-mode :revision 4 :last-modified 2009-10-22T04:30Z)
-(:name misc-cmds :revision 56 :last-modified 2011-01-04T19:31Z)
+(:name misc-cmds :revision 57 :last-modified 2011-05-06T16:43Z)
 (:name misc-fns :revision 28 :last-modified 2011-01-04T19:33Z)
 (:name miscutils :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name mk-project :revision 20 :last-modified 2010-10-23T16:56Z)
