@@ -1414,7 +1414,7 @@
 (:name thing-edit :revision 5 :last-modified 2009-01-20T09:25Z)
 (:name thing-edit-extension :revision 2 :last-modified 2009-01-13T02:45Z)
 (:name thing-opt :revision 11 :last-modified 2009-07-12T08:30Z)
-(:name thingatpt+ :revision 34 :last-modified 2011-05-06T00:47Z)
+(:name thingatpt+ :revision 35 :last-modified 2011-05-06T23:33Z)
 (:name thingatpt-ext :revision 1 :last-modified 2009-04-11T17:03Z)
 (:name thumb-frm :revision 33 :last-modified 2011-04-16T16:56Z)
 (:name thumb-page :revision 9 :last-modified 2009-03-20T22:15Z)
