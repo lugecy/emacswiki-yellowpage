@@ -29,6 +29,7 @@
 (:name ac-dabbrev :revision 7 :last-modified 2009-11-16T16:26Z)
 (:name ac-ghc-mod :revision 7 :last-modified 2010-05-08T06:39Z)
 (:name ac-lilypond :revision 7 :last-modified 2010-08-03T10:27Z)
+(:name ac-octave :revision 5 :last-modified 2011-05-07T11:59Z)
 (:name accelerate :revision 2 :last-modified 2008-09-19T20:46Z)
 (:name acd :revision 6 :last-modified 2008-01-07T16:07Z)
 (:name acme-search :revision 3 :last-modified 2008-09-05T05:55Z)
