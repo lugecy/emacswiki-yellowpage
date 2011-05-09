@@ -563,7 +563,7 @@
 (:name glimpse :revision 1 :last-modified 2006-09-29T10:26Z)
 (:name globalff :revision 11 :last-modified 2007-04-03T19:09Z)
 (:name globrep :revision 9 :last-modified 2010-08-03T12:25Z)
-(:name gm-bots :revision 5 :last-modified 2011-05-09T11:07Z)
+(:name gm-bots :revision 6 :last-modified 2011-05-09T14:04Z)
 (:name gm-webbot :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name gmail-message-send-mail :revision 1 :last-modified 2008-01-10T21:28Z)
 (:name gnugo :revision 2 :last-modified 2007-02-03T12:39Z)
