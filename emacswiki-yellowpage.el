@@ -523,6 +523,7 @@
 (:name fliptext :revision 3 :last-modified 2007-12-09T13:03Z)
 (:name flobl :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name flydoc :revision 7 :last-modified 2008-05-11T03:25Z)
+(:name flymake-cursor :revision 3 :last-modified 2011-05-13T15:08Z)
 (:name flymake-extension :revision 4 :last-modified 2009-02-04T13:54Z)
 (:name flymake-for-csharp :revision 7 :last-modified 2010-05-11T14:18Z)
 (:name flymake-helper :revision 4 :last-modified 2005-10-13T17:56Z)
