@@ -69,7 +69,7 @@
 (:name anything-c-javadoc :revision 2 :last-modified 2010-02-23T16:59Z)
 (:name anything-c-shell-history :revision 2 :last-modified 2009-02-24T12:03Z)
 (:name anything-complete :revision 49 :last-modified 2011-02-24T13:19Z)
-(:name anything-config :revision 331 :last-modified 2011-03-02T02:01Z)
+(:name anything-config :revision 332 :last-modified 2011-05-18T05:21Z)
 (:name anything-dabbrev-expand :revision 16 :last-modified 2011-03-07T17:00Z)
 (:name anything-delicious :revision 17 :last-modified 2010-08-29T06:21Z)
 (:name anything-dired-history :revision 1 :last-modified 2011-03-26T14:56Z)
