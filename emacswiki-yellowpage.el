@@ -293,7 +293,7 @@
 (:name crosshairs :revision 19 :last-modified 2011-01-04T04:28Z)
 (:name cruisecontrol :revision 5 :last-modified 2010-08-03T11:58Z)
 (:name cscope :revision 6 :last-modified 2008-09-05T05:53Z)
-(:name csharp-mode :revision 12 :last-modified 2011-05-19T06:30Z)
+(:name csharp-mode :revision 13 :last-modified 2011-05-19T15:46Z)
 (:name css-mode :revision 10 :last-modified 2008-09-05T05:55Z)
 (:name css-mode-simple :revision 6 :last-modified 2008-09-05T05:54Z)
 (:name css-palette :revision 1 :last-modified 2008-12-13T14:17Z)
