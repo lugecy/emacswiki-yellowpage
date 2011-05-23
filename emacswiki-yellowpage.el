@@ -657,7 +657,7 @@
 (:name icicles-chg :revision 663 :last-modified 2011-05-23T04:04Z)
 (:name icicles-cmd1 :revision 123 :last-modified 2011-05-22T20:25Z)
 (:name icicles-cmd2 :revision 84 :last-modified 2011-05-22T20:27Z)
-(:name icicles-doc1 :revision 278 :last-modified 2011-05-15T17:54Z)
+(:name icicles-doc1 :revision 279 :last-modified 2011-05-23T20:49Z)
 (:name icicles-doc2 :revision 367 :last-modified 2011-05-15T18:09Z)
 (:name icicles-face :revision 64 :last-modified 2011-05-04T21:47Z)
 (:name icicles-fn :revision 539 :last-modified 2011-05-22T20:30Z)
