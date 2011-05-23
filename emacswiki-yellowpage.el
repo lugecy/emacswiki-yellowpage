@@ -803,6 +803,7 @@
 (:name linkd :revision 19 :last-modified 2010-11-26T17:12Z)
 (:name linkify :revision 3 :last-modified 2008-07-05T14:53Z)
 (:name linum+ :revision 5 :last-modified 2010-04-12T02:28Z)
+(:name linum-ex :revision 1 :last-modified 2011-05-23T16:50Z)
 (:name linum-off :revision 7 :last-modified 2011-02-08T16:41Z)
 (:name lisppaste :revision 7 :last-modified 2010-04-24T21:57Z)
 (:name lisppaste-extension :revision 1 :last-modified 2009-02-05T17:12Z)
