@@ -1077,7 +1077,7 @@
 (:name paint :revision 11 :last-modified 2011-01-05T23:06Z)
 (:name palette :revision 56 :last-modified 2011-02-24T23:47Z)
 (:name paredit-extension :revision 3 :last-modified 2009-01-27T16:08Z)
-(:name parenthesis :revision 3 :last-modified 2008-05-25T16:55Z)
+(:name parenthesis :revision 4 :last-modified 2011-05-23T05:48Z)
 (:name parser :revision 6 :last-modified 2008-04-10T06:35Z)
 (:name parser-fn :revision 2 :last-modified 2008-04-09T02:07Z)
 (:name paste2 :revision 10 :last-modified 2009-04-10T18:13Z)
