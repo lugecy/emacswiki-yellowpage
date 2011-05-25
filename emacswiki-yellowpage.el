@@ -540,7 +540,7 @@
 (:name foreach :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name fortune-mode :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name frame+ :revision 16 :last-modified 2011-01-04T17:39Z)
-(:name frame-bufs :revision 2 :last-modified 2011-05-05T17:48Z)
+(:name frame-bufs :revision 3 :last-modified 2011-05-25T17:10Z)
 (:name frame-cmds :revision 46 :last-modified 2011-02-24T23:16Z)
 (:name frame-fns :revision 18 :last-modified 2011-01-04T17:44Z)
 (:name frame-restore :revision 4 :last-modified 2005-10-13T17:56Z)
