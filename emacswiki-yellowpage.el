@@ -1371,7 +1371,7 @@
 (:name sunrise-x-popviewer :revision 13 :last-modified 2011-04-09T18:18Z)
 (:name sunrise-x-tabs :revision 21 :last-modified 2010-12-22T22:04Z)
 (:name sunrise-x-tree :revision 11 :last-modified 2010-12-22T22:04Z)
-(:name sunrise-x-w32-addons :revision 1 :last-modified 2011-05-23T19:23Z)
+(:name sunrise-x-w32-addons :revision 2 :last-modified 2011-05-25T19:20Z)
 (:name suomalainen-kalenteri :revision 8 :last-modified 2009-12-23T12:06Z)
 (:name superego :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name swbuff-x :revision 4 :last-modified 2005-10-13T17:56Z)
