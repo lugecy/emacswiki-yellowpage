@@ -687,7 +687,7 @@
 (:name imdb :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name imdb-adds-mode :revision 6 :last-modified 2008-12-15T00:36Z)
 (:name imdbs :revision 6 :last-modified 2009-12-24T18:27Z)
-(:name imenu+ :revision 18 :last-modified 2011-05-08T19:00Z)
+(:name imenu+ :revision 19 :last-modified 2011-05-27T15:57Z)
 (:name imenu-tree :revision 3 :last-modified 2008-04-12T14:35Z)
 (:name incr :revision 4 :last-modified 2008-03-19T17:34Z)
 (:name indent-file :revision 2 :last-modified 2010-08-08T16:45Z)
