@@ -581,7 +581,7 @@
 (:name gob :revision 1 :last-modified 2007-11-17T11:28Z)
 (:name gobject-class :revision 5 :last-modified 2008-12-08T17:42Z)
 (:name golb :revision 2 :last-modified 2006-05-03T03:24Z)
-(:name google-define :revision 17 :last-modified 2010-08-03T12:26Z)
+(:name google-define :revision 18 :last-modified 2011-05-27T18:44Z)
 (:name google-define-redux :revision 12 :last-modified 2011-05-18T00:30Z)
 (:name google-define-redux-supplemental :revision 1 :last-modified 2010-03-30T19:51Z)
 (:name googleaccount :revision 4 :last-modified 2009-04-19T08:28Z)
