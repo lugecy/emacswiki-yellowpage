@@ -143,7 +143,7 @@
 (:name avenue-mode :revision 6 :last-modified 2008-09-05T05:55Z)
 (:name axcess :revision 6 :last-modified 2008-09-05T05:54Z)
 (:name ayr-china-util :revision 3 :last-modified 2008-09-05T05:55Z)
-(:name babel :revision 9 :last-modified 2010-04-03T02:13Z)
+(:name babel :revision 10 :last-modified 2011-05-27T12:00Z)
 (:name background :revision 1 :last-modified 2010-01-18T06:24Z)
 (:name backup-each-save :revision 1 :last-modified 2010-06-09T13:37Z)
 (:name basic :revision 10 :last-modified 2009-04-18T20:23Z)
