@@ -1227,7 +1227,7 @@
 (:name ricette-mode :revision 5 :last-modified 2009-03-09T16:39Z)
 (:name rijndael :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name ring+ :revision 14 :last-modified 2011-01-04T21:43Z)
-(:name rlazoDotEmacs :revision 5 :last-modified 2011-03-09T13:08Z)
+(:name rlazoDotEmacs :revision -1 :last-modified 2011-05-28T21:48Z)
 (:name rmail-extras :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name rmail-saver :revision 5 :last-modified 2010-08-03T13:12Z)
 (:name rmail-spamprobe :revision 4 :last-modified 2006-01-07T16:15Z)
