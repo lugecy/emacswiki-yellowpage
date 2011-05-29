@@ -1057,7 +1057,7 @@
 (:name org-export-blocks-format-plantuml :revision 7 :last-modified 2010-08-17T15:01Z)
 (:name org-extension :revision 3 :last-modified 2009-01-19T23:01Z)
 (:name org-jira :revision 3 :last-modified 2009-06-04T15:19Z)
-(:name org-json :revision 5 :last-modified 2011-01-20T19:17Z)
+(:name org-json :revision 6 :last-modified 2011-05-29T12:55Z)
 (:name org-mairix :revision 4 :last-modified 2007-10-01T21:05Z)
 (:name org-occur-goto :revision 2 :last-modified 2011-04-25T19:22Z)
 (:name org-oddmuse :revision 1 :last-modified 2009-03-09T14:34Z)
