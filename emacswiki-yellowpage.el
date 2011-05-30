@@ -1376,6 +1376,7 @@
 (:name suomalainen-kalenteri :revision 8 :last-modified 2009-12-23T12:06Z)
 (:name superego :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name swbuff-x :revision 4 :last-modified 2005-10-13T17:56Z)
+(:name sweat :revision 1 :last-modified 2011-05-30T00:26Z)
 (:name switch-color-theme-matlab-latex :revision 2 :last-modified 2010-08-03T13:19Z)
 (:name switch-file :revision 3 :last-modified 2010-05-28T02:26Z)
 (:name switch-to-new-buffer :revision 1 :last-modified 2010-05-27T05:57Z)
