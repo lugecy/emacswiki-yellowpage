@@ -1216,7 +1216,7 @@
 (:name remind-to-diary :revision 1 :last-modified 2010-02-09T01:16Z)
 (:name rep-words :revision 3 :last-modified 2007-09-01T06:07Z)
 (:name repdet :revision 1 :last-modified 2010-05-27T14:51Z)
-(:name repeat-insert :revision 2 :last-modified 2010-11-25T00:07Z)
+(:name repeat-insert :revision 3 :last-modified 2011-06-01T20:51Z)
 (:name replace+ :revision 29 :last-modified 2011-04-16T16:51Z)
 (:name replace-eval-xmas :revision 5 :last-modified 2005-12-01T11:28Z)
 (:name repository-root :revision 2 :last-modified 2009-01-05T19:54Z)
