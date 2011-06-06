@@ -1170,7 +1170,7 @@
 (:name query :revision 5 :last-modified 2010-08-03T13:05Z)
 (:name queue-mail :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name quick-jump :revision 4 :last-modified 2011-05-29T13:32Z)
-(:name r-autoyas :revision 2 :last-modified 2011-05-17T16:23Z)
+(:name r-autoyas :revision 3 :last-modified 2011-06-06T21:15Z)
 (:name rainbow-delimiters :revision 22 :last-modified 2011-05-26T03:50Z)
 (:name random-idle-quote :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name random-quote :revision 1 :last-modified 2010-06-09T13:45Z)
