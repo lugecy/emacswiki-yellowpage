@@ -622,7 +622,7 @@
 (:name help-dwim :revision 4 :last-modified 2008-04-12T19:12Z)
 (:name help-dwim-perlapi :revision 1 :last-modified 2007-08-24T01:07Z)
 (:name help-dwim-perldoc :revision 4 :last-modified 2007-09-24T03:35Z)
-(:name help-fns+ :revision 58 :last-modified 2011-06-13T16:30Z)
+(:name help-fns+ :revision 59 :last-modified 2011-06-14T15:40Z)
 (:name help-macro+ :revision 17 :last-modified 2011-01-04T18:11Z)
 (:name help-mode+ :revision 19 :last-modified 2011-01-04T18:16Z)
 (:name help-url :revision 2 :last-modified 2005-12-19T03:08Z)
