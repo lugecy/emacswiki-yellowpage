@@ -509,7 +509,7 @@
 (:name find-dired- :revision 13 :last-modified 2011-01-04T17:27Z)
 (:name find-file-in-project :revision 1 :last-modified 2008-05-02T17:03Z)
 (:name find-file-in-tags :revision 1 :last-modified 2010-08-27T18:52Z)
-(:name find-func+ :revision 5 :last-modified 2011-01-04T17:29Z)
+(:name find-func+ :revision 6 :last-modified 2011-06-15T16:49Z)
 (:name find-func-extension :revision 1 :last-modified 2009-02-07T12:22Z)
 (:name find-library :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name finder+ :revision 14 :last-modified 2011-01-04T17:32Z)
