@@ -234,7 +234,7 @@
 (:name chinese-chess-pvc :revision 3 :last-modified 2008-09-05T05:55Z)
 (:name chinese-menu :revision 7 :last-modified 2008-09-05T05:54Z)
 (:name chinese-t-menu :revision 2 :last-modified 2011-02-09T14:10Z)
-(:name chm-view :revision 4 :last-modified 2009-04-16T02:50Z)
+(:name chm-view :revision 5 :last-modified 2011-06-16T17:19Z)
 (:name cisco-router-mode :revision 7 :last-modified 2010-08-03T11:32Z)
 (:name cite :revision 6 :last-modified 2008-09-05T05:55Z)
 (:name cj5input :revision 1 :last-modified 2010-01-17T15:59Z)
