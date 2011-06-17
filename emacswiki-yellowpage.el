@@ -1047,7 +1047,7 @@
 (:name one-key-config :revision 25 :last-modified 2009-02-26T06:26Z)
 (:name one-key-default :revision 2 :last-modified 2009-02-17T00:01Z)
 (:name one-key-dir :revision 1 :last-modified 2010-09-21T18:27Z)
-(:name oneonone :revision 71 :last-modified 2011-06-15T20:47Z)
+(:name oneonone :revision 72 :last-modified 2011-06-17T17:56Z)
 (:name onkey :revision 1 :last-modified 2006-10-08T02:25Z)
 (:name open-junk-file :revision 3 :last-modified 2010-06-18T20:07Z)
 (:name openpaste :revision 7 :last-modified 2008-06-21T12:43Z)
