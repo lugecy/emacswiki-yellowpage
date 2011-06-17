@@ -1131,7 +1131,7 @@
 (:name poor-mans-bidi :revision 2 :last-modified 2008-03-31T19:19Z)
 (:name popbiff :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name popbiff2 :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name popup-kill-ring :revision 23 :last-modified 2011-06-11T09:16Z)
+(:name popup-kill-ring :revision 24 :last-modified 2011-06-17T11:27Z)
 (:name popup-pos-tip :revision 4 :last-modified 2010-04-29T09:58Z)
 (:name popup-ruler :revision 12 :last-modified 2007-02-09T14:08Z)
 (:name popup-select-window :revision 3 :last-modified 2010-09-25T07:34Z)
