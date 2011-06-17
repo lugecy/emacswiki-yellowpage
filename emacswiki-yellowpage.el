@@ -766,7 +766,7 @@
 (:name jira :revision 8 :last-modified 2009-10-12T21:23Z)
 (:name jiseki :revision 4 :last-modified 2010-08-03T12:38Z)
 (:name joccur :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name joseph-autopair :revision 6 :last-modified 2011-05-29T13:29Z)
+(:name joseph-autopair :revision 7 :last-modified 2011-06-17T14:54Z)
 (:name joseph-file-util :revision 3 :last-modified 2011-05-29T13:33Z)
 (:name joseph-scroll-screen :revision 3 :last-modified 2011-06-16T08:46Z)
 (:name joseph-single-dired :revision 3 :last-modified 2011-05-29T13:33Z)
