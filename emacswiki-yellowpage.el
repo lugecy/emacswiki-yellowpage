@@ -1372,7 +1372,7 @@
 (:name sunrise-x-mirror :revision 16 :last-modified 2011-06-18T09:23Z)
 (:name sunrise-x-modeline :revision 21 :last-modified 2011-06-18T09:23Z)
 (:name sunrise-x-old-checkpoints :revision 8 :last-modified 2011-06-18T09:23Z)
-(:name sunrise-x-popviewer :revision 14 :last-modified 2011-06-18T09:23Z)
+(:name sunrise-x-popviewer :revision 15 :last-modified 2011-06-18T12:03Z)
 (:name sunrise-x-tabs :revision 22 :last-modified 2011-06-18T09:23Z)
 (:name sunrise-x-tree :revision 12 :last-modified 2011-06-18T09:23Z)
 (:name sunrise-x-w32-addons :revision 3 :last-modified 2011-06-18T09:23Z)
