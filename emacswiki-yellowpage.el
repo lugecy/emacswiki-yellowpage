@@ -1367,7 +1367,7 @@
 (:name sunrise-x-buttons :revision 11 :last-modified 2011-06-18T09:23Z)
 (:name sunrise-x-checkpoints :revision 9 :last-modified 2011-06-18T09:23Z)
 (:name sunrise-x-loop :revision 12 :last-modified 2011-06-23T23:33Z)
-(:name sunrise-x-mirror :revision 17 :last-modified 2011-06-23T23:32Z)
+(:name sunrise-x-mirror :revision 19 :last-modified 2011-06-25T15:40Z)
 (:name sunrise-x-modeline :revision 21 :last-modified 2011-06-18T09:23Z)
 (:name sunrise-x-old-checkpoints :revision 8 :last-modified 2011-06-18T09:23Z)
 (:name sunrise-x-popviewer :revision 16 :last-modified 2011-06-22T19:03Z)
