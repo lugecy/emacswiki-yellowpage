@@ -859,7 +859,7 @@
 (:name mee-ibus :revision 1 :last-modified 2011-03-26T16:29Z)
 (:name member-functions :revision 3 :last-modified 2010-08-04T22:28Z)
 (:name memo-pop :revision 3 :last-modified 2009-06-09T06:30Z)
-(:name menu-bar+ :revision 54 :last-modified 2011-06-15T22:10Z)
+(:name menu-bar+ :revision 55 :last-modified 2011-07-01T17:49Z)
 (:name menu-tree :revision 4 :last-modified 2010-11-30T13:08Z)
 (:name merriam :revision 5 :last-modified 2007-02-14T17:21Z)
 (:name message-outlook :revision 1 :last-modified 2010-04-28T15:54Z)
