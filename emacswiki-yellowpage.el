@@ -411,7 +411,7 @@
 (:name el-expectations :revision 28 :last-modified 2010-12-12T08:48Z)
 (:name el-expectations-failure-sample :revision 8 :last-modified 2010-05-02T23:15Z)
 (:name el-expectations-success-sample :revision 11 :last-modified 2010-05-14T22:47Z)
-(:name el-get :revision 8 :last-modified 2010-09-13T15:38Z)
+(:name el-get :revision 9 :last-modified 2011-07-06T15:46Z)
 (:name el-markup :revision 6 :last-modified 2008-09-05T05:54Z)
 (:name el-mock :revision 10 :last-modified 2010-05-04T08:49Z)
 (:name el-swank-fuzzy :revision 1 :last-modified 2009-10-23T19:09Z)
