@@ -24,7 +24,7 @@
 (:name a-menu :revision 9 :last-modified 2008-09-05T05:54Z)
 (:name abbrev-complete :revision 7 :last-modified 2010-08-03T10:26Z)
 (:name abc-mode :revision 3 :last-modified 2008-09-05T05:55Z)
-(:name ac-R :revision 3 :last-modified 2011-03-24T17:20Z)
+(:name ac-R :revision 4 :last-modified 2011-07-07T10:48Z)
 (:name ac-anything :revision 4 :last-modified 2009-11-11T17:14Z)
 (:name ac-anything2 :revision 2 :last-modified 2010-05-09T08:13Z)
 (:name ac-dabbrev :revision 7 :last-modified 2009-11-16T16:26Z)
