@@ -607,7 +607,7 @@
 (:name growl :revision 2 :last-modified 2011-05-05T20:54Z)
 (:name gst-inspect :revision 2 :last-modified 2010-09-24T17:04Z)
 (:name gtk-perl :revision 4 :last-modified 2007-07-25T17:58Z)
-(:name gtk2hs :revision 4 :last-modified 2010-08-10T06:18Z)
+(:name gtk2hs :revision 6 :last-modified 2011-07-10T02:51Z)
 (:name guess-offset :revision 5 :last-modified 2006-04-01T19:12Z)
 (:name hachette :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name hanconvert :revision 4 :last-modified 2009-01-05T16:52Z)
