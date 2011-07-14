@@ -408,7 +408,7 @@
 (:name eim-extension :revision 1 :last-modified 2009-02-05T17:37Z)
 (:name eimp :revision 5 :last-modified 2009-10-25T09:22Z)
 (:name eiv :revision 14 :last-modified 2010-02-24T18:17Z)
-(:name el-expectations :revision 28 :last-modified 2010-12-12T08:48Z)
+(:name el-expectations :revision 29 :last-modified 2011-07-14T11:30Z)
 (:name el-expectations-failure-sample :revision 8 :last-modified 2010-05-02T23:15Z)
 (:name el-expectations-success-sample :revision 11 :last-modified 2010-05-14T22:47Z)
 (:name el-get :revision 9 :last-modified 2011-07-06T15:46Z)
