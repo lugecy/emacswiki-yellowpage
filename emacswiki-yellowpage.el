@@ -1189,7 +1189,7 @@
 (:name rcirc-ding :revision 2 :last-modified 2009-05-22T15:27Z)
 (:name rcirc-extension :revision 1 :last-modified 2009-02-05T17:15Z)
 (:name rcirc-groups :revision 2 :last-modified 2010-08-06T21:37Z)
-(:name rcirc-late-fix :revision 9 :last-modified 2011-07-16T17:48Z)
+(:name rcirc-late-fix :revision 12 :last-modified 2011-07-16T18:20Z)
 (:name rcirc-nonames-on-join :revision 1 :last-modified 2011-02-07T02:53Z)
 (:name rcirc-notify :revision 13 :last-modified 2011-04-16T21:51Z)
 (:name rcirc-notify+ :revision 3 :last-modified 2009-01-11T03:03Z)
