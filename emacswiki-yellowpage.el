@@ -1340,6 +1340,7 @@
 (:name sql-transform :revision 1 :last-modified 2009-12-11T02:48Z)
 (:name sql-with-placeholders :revision 1 :last-modified 2008-01-15T08:19Z)
 (:name sqled-mode :revision 4 :last-modified 2005-10-13T17:56Z)
+(:name sqlparser-mysql-complete :revision 1 :last-modified 2011-07-21T13:28Z)
 (:name sqlplus :revision 17 :last-modified 2009-01-01T10:48Z)
 (:name sr-monotone :revision 2 :last-modified 2007-10-30T21:17Z)
 (:name sr-speedbar :revision 47 :last-modified 2009-07-23T04:35Z)
