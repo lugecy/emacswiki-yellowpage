@@ -458,7 +458,7 @@
 (:name erefactor :revision 4 :last-modified 2011-01-25T12:07Z)
 (:name ergo-movement-mode :revision 17 :last-modified 2010-08-03T12:20Z)
 (:name erobot :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name ess-smart-underscore :revision 11 :last-modified 2011-07-15T18:39Z)
+(:name ess-smart-underscore :revision 12 :last-modified 2011-07-22T13:37Z)
 (:name esv :revision 17 :last-modified 2010-08-03T12:22Z)
 (:name etags-extension :revision 4 :last-modified 2009-02-11T06:57Z)
 (:name etags-select :revision 19 :last-modified 2008-12-15T19:23Z)
