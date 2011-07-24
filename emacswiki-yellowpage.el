@@ -68,7 +68,7 @@
 (:name anything-c-aspell-interactively :revision 1 :last-modified 2009-10-13T17:50Z)
 (:name anything-c-javadoc :revision 2 :last-modified 2010-02-23T16:59Z)
 (:name anything-c-shell-history :revision 2 :last-modified 2009-02-24T12:03Z)
-(:name anything-complete :revision 49 :last-modified 2011-02-24T13:19Z)
+(:name anything-complete :revision 50 :last-modified 2011-07-24T12:11Z)
 (:name anything-config :revision 333 :last-modified 2011-06-09T07:03Z)
 (:name anything-dabbrev-expand :revision 16 :last-modified 2011-03-07T17:00Z)
 (:name anything-delicious :revision 17 :last-modified 2010-08-29T06:21Z)
