@@ -325,7 +325,7 @@
 (:name delim-col :revision 5 :last-modified 2008-09-05T05:06Z)
 (:name delsel :revision 24 :last-modified 2011-02-24T22:56Z)
 (:name descbinds-anything :revision 8 :last-modified 2010-02-05T15:10Z)
-(:name desktop-menu :revision 1 :last-modified 2009-11-13T23:09Z)
+(:name desktop-menu :revision 2 :last-modified 2011-07-24T13:44Z)
 (:name devel-notes :revision 3 :last-modified 2011-03-14T13:37Z)
 (:name devkitemacs :revision 8 :last-modified 2008-12-16T17:44Z)
 (:name df-mode :revision 6 :last-modified 2008-09-05T05:05Z)
