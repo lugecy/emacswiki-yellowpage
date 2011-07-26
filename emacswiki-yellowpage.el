@@ -333,7 +333,7 @@
 (:name di :revision 4 :last-modified 2010-08-03T12:02Z)
 (:name dialog :revision 11 :last-modified 2008-09-05T05:05Z)
 (:name diameter-avp :revision 1 :last-modified 2011-03-23T23:01Z)
-(:name dict :revision 6 :last-modified 2008-09-05T05:05Z)
+(:name dict :revision 7 :last-modified 2011-07-26T10:12Z)
 (:name diff+ :revision 15 :last-modified 2011-01-04T15:58Z)
 (:name diff+20 :revision 18 :last-modified 2011-01-04T16:00Z)
 (:name diff-mode- :revision 18 :last-modified 2011-02-11T22:42Z)
