@@ -2,7 +2,7 @@
 (:name .durdn.office :revision 6 :last-modified 2008-09-05T00:51Z)
 (:name .emacs-AndyStewart :revision 3 :last-modified 2009-04-20T10:56Z)
 (:name .emacs-ChristianRovner :revision 1 :last-modified 2010-04-06T20:59Z)
-(:name .emacs-DominiqueQuatravaux :revision 13 :last-modified 2010-09-15T08:51Z)
+(:name .emacs-DominiqueQuatravaux :revision 14 :last-modified 2011-07-26T14:17Z)
 (:name .emacs-IzaakBeekman :revision 3 :last-modified 2008-12-18T22:43Z)
 (:name .emacs-ViniciusJoseLatorre :revision 3 :last-modified 2009-08-08T12:41Z)
 (:name .emacs-planner-thierry :revision 11 :last-modified 2008-09-05T05:55Z)
