@@ -1379,7 +1379,7 @@
 (:name sunrise-x-tabs :revision 24 :last-modified 2011-07-02T12:21Z)
 (:name sunrise-x-tree :revision 14 :last-modified 2011-06-23T10:49Z)
 (:name sunrise-x-w32-addons :revision 3 :last-modified 2011-06-18T09:23Z)
-(:name suomalainen-kalenteri :revision 11 :last-modified 2011-07-27T16:33Z)
+(:name suomalainen-kalenteri :revision 12 :last-modified 2011-07-27T17:48Z)
 (:name superego :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name swbuff-x :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name sweat :revision 1 :last-modified 2011-05-30T00:26Z)
