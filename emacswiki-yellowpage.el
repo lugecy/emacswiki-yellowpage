@@ -634,7 +634,7 @@
 (:name hgw-init-wl :revision 1 :last-modified 2009-04-12T15:12Z)
 (:name hide-comnt :revision 1 :last-modified 2011-05-11T14:47Z)
 (:name hide-lines :revision 1 :last-modified 2006-08-26T04:43Z)
-(:name hide-region :revision 4 :last-modified 2005-10-13T17:56Z)
+(:name hide-region :revision 5 :last-modified 2011-07-28T14:11Z)
 (:name hidesearch :revision 1 :last-modified 2007-06-05T16:17Z)
 (:name hideshow-fringe :revision 2 :last-modified 2009-04-23T06:37Z)
 (:name hideshowvis :revision 4 :last-modified 2010-08-26T21:07Z)
