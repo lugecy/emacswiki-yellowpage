@@ -1534,6 +1534,7 @@
 (:name w3xt :revision 1 :last-modified 2010-06-09T13:52Z)
 (:name wajig :revision 8 :last-modified 2007-08-09T08:20Z)
 (:name warn-mail :revision 12 :last-modified 2008-01-18T12:34Z)
+(:name waveform-mode :revision 1 :last-modified 2011-07-29T06:26Z)
 (:name wc :revision 2 :last-modified 2007-09-04T20:03Z)
 (:name wcheck-mode :revision 20 :last-modified 2011-06-24T12:27Z)
 (:name wcy-complete :revision 6 :last-modified 2010-04-23T07:59Z)
