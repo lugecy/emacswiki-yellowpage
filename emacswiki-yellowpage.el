@@ -79,6 +79,7 @@
 (:name anything-etags :revision 3 :last-modified 2011-04-24T12:17Z)
 (:name anything-etags+ :revision 3 :last-modified 2011-05-29T13:31Z)
 (:name anything-extension :revision 15 :last-modified 2009-03-09T05:15Z)
+(:name anything-exuberant-ctags :revision 1 :last-modified 2011-08-09T12:51Z)
 (:name anything-grep :revision 14 :last-modified 2010-06-23T20:08Z)
 (:name anything-gtags :revision 18 :last-modified 2011-02-11T04:01Z)
 (:name anything-include :revision 1 :last-modified 2009-03-29T11:32Z)
