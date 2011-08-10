@@ -1099,7 +1099,7 @@
 (:name pddl-mode :revision 5 :last-modified 2008-12-13T18:12Z)
 (:name pdftools :revision 1 :last-modified 2011-02-11T07:09Z)
 (:name peg :revision 8 :last-modified 2010-02-23T13:29Z)
-(:name per-win :revision 2 :last-modified 2011-03-04T03:47Z)
+(:name per-win :revision 3 :last-modified 2011-08-10T06:29Z)
 (:name per-window-point :revision 1 :last-modified 2011-07-23T20:41Z)
 (:name perl-completion :revision 1 :last-modified 2009-05-19T09:21Z)
 (:name perl-find-library :revision 3 :last-modified 2010-08-03T12:59Z)
