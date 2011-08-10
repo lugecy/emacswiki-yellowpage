@@ -786,7 +786,7 @@
 (:name key-choices :revision 6 :last-modified 2011-02-08T17:16Z)
 (:name key-chord :revision 3 :last-modified 2008-09-15T21:56Z)
 (:name keyboard-macro-timer :revision 5 :last-modified 2008-02-15T17:31Z)
-(:name keychain-environment :revision 3 :last-modified 2010-08-15T14:45Z)
+(:name keychain-environment :revision 4 :last-modified 2011-08-10T12:01Z)
 (:name kis-interface :revision 3 :last-modified 2006-02-14T01:06Z)
 (:name kis-project :revision 2 :last-modified 2006-04-30T09:33Z)
 (:name kokopelli :revision 11 :last-modified 2010-08-03T12:39Z)
