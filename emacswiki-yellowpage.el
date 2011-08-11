@@ -1294,7 +1294,7 @@
 (:name setnu :revision 5 :last-modified 2006-11-27T22:58Z)
 (:name setnu+ :revision 21 :last-modified 2011-01-04T21:55Z)
 (:name setup :revision 33 :last-modified 2011-07-25T20:52Z)
-(:name setup-cygwin :revision 21 :last-modified 2011-01-04T21:57Z)
+(:name setup-cygwin :revision 22 :last-modified 2011-08-11T20:26Z)
 (:name setup-helper :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name setup-keys :revision 85 :last-modified 2011-07-25T20:29Z)
 (:name sfst :revision 2 :last-modified 2009-03-31T13:22Z)
