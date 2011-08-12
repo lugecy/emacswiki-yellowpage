@@ -55,7 +55,7 @@
 (:name analog :revision 5 :last-modified 2008-09-05T05:55Z)
 (:name anchored-transpose :revision 8 :last-modified 2008-09-05T05:54Z)
 (:name annotate :revision 7 :last-modified 2008-09-05T05:53Z)
-(:name ansi-color :revision 6 :last-modified 2008-09-05T05:55Z)
+(:name ansi-color :revision 7 :last-modified 2011-08-12T12:33Z)
 (:name ansys-mod :revision 6 :last-modified 2008-09-05T05:55Z)
 (:name ant :revision 8 :last-modified 2010-08-03T10:31Z)
 (:name any-ini-mode :revision 6 :last-modified 2008-09-05T05:54Z)
