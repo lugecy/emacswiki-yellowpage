@@ -675,7 +675,7 @@
 (:name icicles-menu-xmas :revision 1 :last-modified 2005-11-25T12:13Z)
 (:name icicles-mode :revision 376 :last-modified 2011-08-08T02:11Z)
 (:name icicles-opt :revision 395 :last-modified 2011-08-08T02:05Z)
-(:name icicles-var :revision 191 :last-modified 2011-08-07T23:48Z)
+(:name icicles-var :revision 192 :last-modified 2011-08-12T21:59Z)
 (:name icicles-xmas :revision 5 :last-modified 2006-03-03T13:28Z)
 (:name icomplete+ :revision 32 :last-modified 2011-06-05T16:29Z)
 (:name ide-skel :revision 3 :last-modified 2009-01-01T10:45Z)
