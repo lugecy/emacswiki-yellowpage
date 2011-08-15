@@ -1512,7 +1512,7 @@
 (:name viewer :revision 3 :last-modified 2010-05-04T08:56Z)
 (:name vim-elscreen :revision 2 :last-modified 2011-02-11T06:54Z)
 (:name vimpulse :revision 43 :last-modified 2010-09-12T13:05Z)
-(:name viper-in-more-modes :revision 9 :last-modified 2010-03-18T17:04Z)
+(:name viper-in-more-modes :revision 10 :last-modified 2011-08-15T20:14Z)
 (:name visible-lines :revision 3 :last-modified 2008-01-27T05:59Z)
 (:name visible-mark :revision 4 :last-modified 2008-02-21T06:51Z)
 (:name visual-basic-mode :revision 32 :last-modified 2010-10-19T19:56Z)
