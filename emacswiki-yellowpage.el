@@ -817,7 +817,7 @@
 (:name lisppaste-extension :revision 1 :last-modified 2009-02-05T17:12Z)
 (:name lispxmp :revision 12 :last-modified 2010-05-06T01:29Z)
 (:name list-processes+ :revision 1 :last-modified 2006-10-15T10:51Z)
-(:name list-register :revision 6 :last-modified 2011-08-17T17:03Z)
+(:name list-register :revision 7 :last-modified 2011-08-18T08:13Z)
 (:name lively :revision 1 :last-modified 2010-10-10T13:14Z)
 (:name lnk :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name locales :revision 9 :last-modified 2011-05-03T05:41Z)
