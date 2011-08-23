@@ -702,7 +702,7 @@
 (:name inertial-scroll :revision 1 :last-modified 2010-10-15T13:54Z)
 (:name inf-perl :revision 3 :last-modified 2007-11-01T17:29Z)
 (:name inferior-apl :revision 2 :last-modified 2011-01-06T05:25Z)
-(:name info+ :revision 76 :last-modified 2011-02-24T23:35Z)
+(:name info+ :revision 77 :last-modified 2011-08-23T17:49Z)
 (:name inhibit-clash-detection :revision 3 :last-modified 2007-02-17T02:44Z)
 (:name init-anything :revision 6 :last-modified 2009-03-12T17:40Z)
 (:name init-auto-complete :revision 11 :last-modified 2009-03-29T15:05Z)
