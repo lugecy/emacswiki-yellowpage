@@ -578,6 +578,7 @@
 (:name gnus-autocheck :revision 2 :last-modified 2010-09-22T11:07Z)
 (:name gnus-extension :revision 1 :last-modified 2009-01-27T18:32Z)
 (:name gnus-hardsort :revision 3 :last-modified 2005-11-13T00:17Z)
+(:name gnus-harvest :revision 1 :last-modified 2011-08-23T04:21Z)
 (:name gnus-notify :revision 8 :last-modified 2010-10-06T09:42Z)
 (:name gnus-notify+ :revision 2 :last-modified 2009-01-06T06:02Z)
 (:name gnus-propfont :revision 4 :last-modified 2005-10-13T17:56Z)
