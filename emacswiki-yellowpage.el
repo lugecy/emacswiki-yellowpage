@@ -1229,7 +1229,7 @@
 (:name rep-words :revision 3 :last-modified 2007-09-01T06:07Z)
 (:name repdet :revision 1 :last-modified 2010-05-27T14:51Z)
 (:name repeat-insert :revision 3 :last-modified 2011-06-01T20:51Z)
-(:name replace+ :revision 30 :last-modified 2011-08-22T17:24Z)
+(:name replace+ :revision 31 :last-modified 2011-08-24T14:29Z)
 (:name replace-eval-xmas :revision 5 :last-modified 2005-12-01T11:28Z)
 (:name repository-root :revision 2 :last-modified 2009-01-05T19:54Z)
 (:name require-or-install :revision 1 :last-modified 2007-09-19T16:38Z)
