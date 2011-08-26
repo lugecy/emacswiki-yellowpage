@@ -463,7 +463,7 @@
 (:name ergo-movement-mode :revision 17 :last-modified 2010-08-03T12:20Z)
 (:name erobot :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name ess-smart-underscore :revision 14 :last-modified 2011-08-03T20:06Z)
-(:name esv :revision 17 :last-modified 2010-08-03T12:22Z)
+(:name esv :revision 20 :last-modified 2011-08-26T14:50Z)
 (:name etags-extension :revision 4 :last-modified 2009-02-11T06:57Z)
 (:name etags-select :revision 19 :last-modified 2008-12-15T19:23Z)
 (:name etags-stack :revision 1 :last-modified 2008-08-16T01:03Z)
