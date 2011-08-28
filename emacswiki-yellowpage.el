@@ -1267,6 +1267,7 @@
 (:name scheme-here :revision 4 :last-modified 2008-12-08T17:11Z)
 (:name scheme48 :revision 14 :last-modified 2006-11-25T18:21Z)
 (:name school-points-off :revision 5 :last-modified 2008-12-13T18:14Z)
+(:name scilab :revision 2 :last-modified 2011-08-28T19:52Z)
 (:name scim-bridge-extension :revision 1 :last-modified 2009-02-05T17:17Z)
 (:name scpaste :revision 3 :last-modified 2011-06-17T18:56Z)
 (:name screen-term :revision 1 :last-modified 2009-04-05T22:24Z)
