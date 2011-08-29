@@ -204,7 +204,7 @@
 (:name buffer-move :revision 10 :last-modified 2011-03-05T02:49Z)
 (:name buffer-ring :revision 4 :last-modified 2011-03-27T05:16Z)
 (:name buffer-stack :revision 2 :last-modified 2010-12-23T10:20Z)
-(:name buffer-stack-suppl :revision 1 :last-modified 2010-12-22T16:23Z)
+(:name buffer-stack-suppl :revision 2 :last-modified 2011-08-29T09:28Z)
 (:name buffer-time-stamp :revision 5 :last-modified 2008-09-05T05:55Z)
 (:name bug :revision 8 :last-modified 2008-09-05T05:53Z)
 (:name buqis :revision 6 :last-modified 2008-09-05T05:54Z)
