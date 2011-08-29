@@ -1324,7 +1324,7 @@
 (:name slime-company :revision 1 :last-modified 2009-11-19T16:23Z)
 (:name slime-loads :revision 1 :last-modified 2010-09-07T21:44Z)
 (:name slime-loads-GNU-clbuild :revision 6 :last-modified 2011-01-18T19:03Z)
-(:name sln-mode :revision 3 :last-modified 2009-09-21T09:20Z)
+(:name sln-mode :revision 4 :last-modified 2011-08-29T05:22Z)
 (:name slurp :revision 15 :last-modified 2011-08-07T05:52Z)
 (:name smart-compile+ :revision 5 :last-modified 2007-01-20T02:51Z)
 (:name smart-dabbrev :revision 1 :last-modified 2008-09-02T20:34Z)
