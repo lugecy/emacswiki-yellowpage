@@ -1314,7 +1314,7 @@
 (:name sie :revision 5 :last-modified 2008-12-16T18:01Z)
 (:name sierotki :revision 15 :last-modified 2009-06-23T15:59Z)
 (:name sig-quote :revision 2 :last-modified 2008-01-14T21:35Z)
-(:name simple+ :revision 26 :last-modified 2011-05-16T14:49Z)
+(:name simple+ :revision 28 :last-modified 2011-09-04T01:30Z)
 (:name simple-call-tree :revision 5 :last-modified 2009-02-23T10:09Z)
 (:name simple-emacswiki :revision 8 :last-modified 2007-07-08T16:06Z)
 (:name simple-wiki-completion :revision 4 :last-modified 2005-10-13T17:56Z)
