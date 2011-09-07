@@ -647,7 +647,7 @@
 (:name highlight-beyond-fill-column :revision 1 :last-modified 2010-06-09T13:43Z)
 (:name highlight-cl :revision 3 :last-modified 2009-10-12T17:30Z)
 (:name highlight-current-line :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name highline :revision 20 :last-modified 2011-09-07T01:50Z)
+(:name highline :revision 21 :last-modified 2011-09-07T12:22Z)
 (:name himark :revision 1 :last-modified 2011-03-30T16:05Z)
 (:name himarks-mode :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name historyf :revision 1 :last-modified 2010-07-09T08:38Z)
