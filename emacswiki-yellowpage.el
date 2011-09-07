@@ -372,7 +372,7 @@
 (:name doi-extension :revision 1 :last-modified 2009-01-10T02:55Z)
 (:name doit-mode :revision 4 :last-modified 2008-09-05T05:55Z)
 (:name dom :revision 9 :last-modified 2009-12-24T18:27Z)
-(:name doremi :revision 28 :last-modified 2011-01-04T16:45Z)
+(:name doremi :revision 29 :last-modified 2011-09-07T22:54Z)
 (:name doremi-cmd :revision 33 :last-modified 2011-01-04T16:27Z)
 (:name doremi-frm :revision 56 :last-modified 2011-01-04T16:38Z)
 (:name doremi-mac :revision 20 :last-modified 2011-01-04T16:40Z)
