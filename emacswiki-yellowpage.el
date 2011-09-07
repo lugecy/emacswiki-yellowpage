@@ -1120,6 +1120,8 @@
 (:name pic-basic-mode :revision 4 :last-modified 2011-01-08T08:18Z)
 (:name pinbar :revision 1 :last-modified 2010-10-07T04:49Z)
 (:name pink-bliss :revision 18 :last-modified 2008-10-04T23:03Z)
+(:name pkb-0.2 :revision 1 :last-modified 2011-09-07T03:51Z)
+(:name pkb-html-0.2 :revision 1 :last-modified 2011-09-07T03:52Z)
 (:name planner-favoris :revision 3 :last-modified 2008-02-25T07:10Z)
 (:name planner-frame :revision 5 :last-modified 2006-04-23T02:46Z)
 (:name planner-hierarchy :revision 6 :last-modified 2008-12-16T17:57Z)
