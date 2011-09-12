@@ -1581,7 +1581,7 @@
 (:name wikirel :revision 1 :last-modified 2008-12-23T18:42Z)
 (:name wikitext-mode :revision 5 :last-modified 2009-11-20T23:34Z)
 (:name wimpy-del :revision 16 :last-modified 2011-01-04T23:17Z)
-(:name win-switch :revision 3 :last-modified 2011-08-28T04:00Z)
+(:name win-switch :revision 5 :last-modified 2011-09-12T04:46Z)
 (:name windata :revision 2 :last-modified 2008-04-12T14:55Z)
 (:name window+ :revision 16 :last-modified 2011-06-29T21:07Z)
 (:name window-extension :revision 1 :last-modified 2009-02-07T10:36Z)
