@@ -1489,7 +1489,7 @@
 (:name twit :revision 81 :last-modified 2011-02-08T15:32Z)
 (:name two-mode-mode :revision 2 :last-modified 2009-03-25T17:54Z)
 (:name type-test :revision 1 :last-modified 2006-09-06T09:52Z)
-(:name typing :revision 8 :last-modified 2009-12-24T18:27Z)
+(:name typing :revision 9 :last-modified 2011-09-13T16:30Z)
 (:name typopunct :revision 7 :last-modified 2010-09-07T02:43Z)
 (:name tzhelp :revision 1 :last-modified 2010-12-05T23:02Z)
 (:name ul :revision 2 :last-modified 2007-09-04T20:21Z)
