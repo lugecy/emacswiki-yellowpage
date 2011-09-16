@@ -7,6 +7,7 @@
 (:name .emacs-ViniciusJoseLatorre :revision 3 :last-modified 2009-08-08T12:41Z)
 (:name .emacs-planner-thierry :revision 11 :last-modified 2008-09-05T05:55Z)
 (:name 123-menu :revision 3 :last-modified 2008-09-05T05:54Z)
+(:name DefaultContent :revision 1 :last-modified 2011-09-16T01:07Z)
 (:name LazyCatDepend :revision 5 :last-modified 2009-05-03T05:14Z)
 (:name LazyCatFont :revision 2 :last-modified 2011-04-29T11:07Z)
 (:name LazyCatKeystoke :revision 10 :last-modified 2009-04-19T02:30Z)
