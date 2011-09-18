@@ -1063,7 +1063,7 @@
 (:name openpaste :revision 7 :last-modified 2008-06-21T12:43Z)
 (:name oprofile-mode :revision 3 :last-modified 2010-08-03T12:55Z)
 (:name options+ :revision 13 :last-modified 2011-01-04T20:54Z)
-(:name oracle-query :revision 3 :last-modified 2011-08-22T13:37Z)
+(:name oracle-query :revision 4 :last-modified 2011-09-18T12:41Z)
 (:name oracle-shell-query :revision 1 :last-modified 2011-07-31T15:16Z)
 (:name org :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name org-annotate-file :revision 4 :last-modified 2010-11-21T02:54Z)
