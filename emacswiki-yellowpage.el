@@ -1356,7 +1356,7 @@
 (:name sql-with-placeholders :revision 1 :last-modified 2008-01-15T08:19Z)
 (:name sqled-mode :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name sqlparser-mysql-complete :revision 7 :last-modified 2011-09-07T16:11Z)
-(:name sqlparser-oracle-complete :revision 8 :last-modified 2011-09-07T16:12Z)
+(:name sqlparser-oracle-complete :revision 10 :last-modified 2011-09-18T13:37Z)
 (:name sqlparser-sqlserver-complete :revision 4 :last-modified 2011-09-07T16:13Z)
 (:name sqlplus :revision 17 :last-modified 2009-01-01T10:48Z)
 (:name sqlserver-query :revision 2 :last-modified 2011-08-22T13:36Z)
