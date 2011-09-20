@@ -1357,7 +1357,7 @@
 (:name sqled-mode :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name sqlparser-mysql-complete :revision 7 :last-modified 2011-09-07T16:11Z)
 (:name sqlparser-oracle-complete :revision 11 :last-modified 2011-09-18T14:40Z)
-(:name sqlparser-sqlserver-complete :revision 4 :last-modified 2011-09-07T16:13Z)
+(:name sqlparser-sqlserver-complete :revision 5 :last-modified 2011-09-20T11:58Z)
 (:name sqlplus :revision 17 :last-modified 2009-01-01T10:48Z)
 (:name sqlserver-query :revision 2 :last-modified 2011-08-22T13:36Z)
 (:name sr-monotone :revision 2 :last-modified 2007-10-30T21:17Z)
