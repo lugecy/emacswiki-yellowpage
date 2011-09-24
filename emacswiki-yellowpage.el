@@ -1052,7 +1052,7 @@
 (:name oddmuse-curl :revision 4 :last-modified 2009-08-26T23:19Z)
 (:name oggel :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name oicq :revision 3 :last-modified 2009-01-10T16:49Z)
-(:name one-key :revision 49 :last-modified 2010-12-16T18:03Z)
+(:name one-key :revision 51 :last-modified 2011-09-24T16:11Z)
 (:name one-key-config :revision 25 :last-modified 2009-02-26T06:26Z)
 (:name one-key-default :revision 2 :last-modified 2009-02-17T00:01Z)
 (:name one-key-dir :revision 1 :last-modified 2010-09-21T18:27Z)
