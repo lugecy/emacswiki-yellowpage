@@ -1368,7 +1368,7 @@
 (:name sr-speedbar :revision 47 :last-modified 2009-07-23T04:35Z)
 (:name srfi :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name stardict :revision 1 :last-modified 2010-11-06T10:58Z)
-(:name start :revision 92 :last-modified 2011-07-25T21:48Z)
+(:name start :revision 93 :last-modified 2011-09-27T18:07Z)
 (:name start-opt :revision 43 :last-modified 2011-08-07T21:07Z)
 (:name startup :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name steersman :revision 3 :last-modified 2009-11-21T00:41Z)
