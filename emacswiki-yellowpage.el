@@ -1675,7 +1675,7 @@
 (:name yaoddmuse :revision 88 :last-modified 2010-08-05T09:13Z)
 (:name yaoddmuse-extension :revision 9 :last-modified 2009-03-11T14:04Z)
 (:name yari :revision 3 :last-modified 2011-04-17T20:04Z)
-(:name yas-jit :revision 10 :last-modified 2011-05-12T20:31Z)
+(:name yas-jit :revision 11 :last-modified 2011-09-29T13:36Z)
 (:name yasnippet-config :revision 8 :last-modified 2010-04-09T04:56Z)
 (:name yatm :revision 5 :last-modified 2008-12-16T18:42Z)
 (:name yiddish :revision 1 :last-modified 2008-07-19T14:16Z)
