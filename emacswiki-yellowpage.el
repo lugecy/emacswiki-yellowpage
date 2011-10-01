@@ -1115,6 +1115,7 @@
 (:name perlcritic :revision 1 :last-modified 2007-12-31T08:19Z)
 (:name perldb-ui :revision 2 :last-modified 2007-12-19T12:14Z)
 (:name perlisisms :revision 1 :last-modified 2009-08-11T01:40Z)
+(:name perlmonks :revision 1 :last-modified 2011-10-01T13:40Z)
 (:name perltidy :revision 1 :last-modified 2007-12-22T03:40Z)
 (:name phonetic :revision 5 :last-modified 2010-08-03T12:59Z)
 (:name php-completion :revision 4 :last-modified 2009-03-11T12:39Z)
