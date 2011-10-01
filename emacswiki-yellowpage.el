@@ -291,7 +291,7 @@
 (:name copyedit :revision 2 :last-modified 2010-05-16T03:09Z)
 (:name corba :revision 9 :last-modified 2008-12-08T14:14Z)
 (:name coroutine :revision 6 :last-modified 2008-09-05T05:54Z)
-(:name couchdb-document :revision 8 :last-modified 2010-11-11T10:34Z)
+(:name couchdb-document :revision 9 :last-modified 2011-10-01T09:48Z)
 (:name couchdb-document-text :revision 2 :last-modified 2010-10-30T08:57Z)
 (:name cperl-auto-name :revision 1 :last-modified 2009-02-16T01:22Z)
 (:name cppsense :revision 8 :last-modified 2008-09-05T05:55Z)
