@@ -670,7 +670,7 @@
 (:name icicles-doc1 :revision 301 :last-modified 2011-10-03T01:19Z)
 (:name icicles-doc2 :revision 393 :last-modified 2011-09-27T23:28Z)
 (:name icicles-face :revision 66 :last-modified 2011-08-16T23:22Z)
-(:name icicles-fn :revision 564 :last-modified 2011-10-03T01:13Z)
+(:name icicles-fn :revision 565 :last-modified 2011-10-03T14:01Z)
 (:name icicles-install :revision 18 :last-modified 2011-01-14T13:16Z)
 (:name icicles-iswitchb :revision 6 :last-modified 2007-01-10T19:26Z)
 (:name icicles-mac :revision 89 :last-modified 2011-09-08T20:40Z)
