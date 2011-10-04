@@ -1499,7 +1499,7 @@
 (:name typing :revision 11 :last-modified 2011-10-01T12:42Z)
 (:name typopunct :revision 7 :last-modified 2010-09-07T02:43Z)
 (:name tzhelp :revision 1 :last-modified 2010-12-05T23:02Z)
-(:name ucs-cmds :revision 1 :last-modified 2011-10-04T18:39Z)
+(:name ucs-cmds :revision 2 :last-modified 2011-10-04T19:57Z)
 (:name ul :revision 2 :last-modified 2007-09-04T20:21Z)
 (:name unaccent :revision 14 :last-modified 2011-01-04T22:50Z)
 (:name unbound :revision 7 :last-modified 2007-02-28T19:37Z)
