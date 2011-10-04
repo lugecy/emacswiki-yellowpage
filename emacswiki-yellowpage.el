@@ -1043,7 +1043,7 @@
 (:name nmcobol-mode :revision 6 :last-modified 2007-02-22T18:59Z)
 (:name nnir :revision 6 :last-modified 2008-05-24T20:27Z)
 (:name no-word :revision 8 :last-modified 2008-04-06T06:14Z)
-(:name notify :revision 15 :last-modified 2010-08-20T12:08Z)
+(:name notify :revision 16 :last-modified 2011-10-04T00:22Z)
 (:name novice+ :revision 18 :last-modified 2011-01-04T19:47Z)
 (:name nsis-mode :revision 8 :last-modified 2011-02-07T17:06Z)
 (:name ntcmd :revision 1 :last-modified 2010-09-12T17:00Z)
