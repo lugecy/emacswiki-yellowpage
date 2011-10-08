@@ -1036,7 +1036,7 @@
 (:name naf-mode-ulan-utils :revision 5 :last-modified 2010-06-14T20:57Z)
 (:name naf-mode-xrefs :revision 2 :last-modified 2010-06-14T18:56Z)
 (:name naf-name-utils :revision 11 :last-modified 2010-02-13T01:49Z)
-(:name naked :revision 3 :last-modified 2011-10-07T23:40Z)
+(:name naked :revision 4 :last-modified 2011-10-08T07:11Z)
 (:name nc :revision 12 :last-modified 2009-03-09T18:00Z)
 (:name netrexx-mode :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name newsticker-extension :revision 2 :last-modified 2009-03-11T22:15Z)
