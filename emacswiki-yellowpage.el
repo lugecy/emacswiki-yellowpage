@@ -672,7 +672,7 @@
 (:name icicles-fn :revision 568 :last-modified 2011-10-08T20:53Z)
 (:name icicles-install :revision 18 :last-modified 2011-01-14T13:16Z)
 (:name icicles-iswitchb :revision 6 :last-modified 2007-01-10T19:26Z)
-(:name icicles-mac :revision 90 :last-modified 2011-10-08T17:10Z)
+(:name icicles-mac :revision 91 :last-modified 2011-10-09T00:07Z)
 (:name icicles-mcmd :revision 463 :last-modified 2011-10-08T18:21Z)
 (:name icicles-menu :revision 37 :last-modified 2008-08-28T20:45Z)
 (:name icicles-menu-xmas :revision 1 :last-modified 2005-11-25T12:13Z)
