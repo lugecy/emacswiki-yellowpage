@@ -776,7 +776,7 @@
 (:name joseph-file-util :revision 3 :last-modified 2011-05-29T13:33Z)
 (:name joseph-scroll-screen :revision 4 :last-modified 2011-06-23T01:36Z)
 (:name joseph-single-dired :revision 3 :last-modified 2011-05-29T13:33Z)
-(:name joseph-util :revision 1 :last-modified 2011-09-13T14:48Z)
+(:name joseph-util :revision 2 :last-modified 2011-10-11T08:55Z)
 (:name journal :revision 1 :last-modified 2009-08-19T18:07Z)
 (:name joystick :revision 2 :last-modified 2008-12-03T21:29Z)
 (:name jpl-reformat :revision 1 :last-modified 2008-01-07T15:48Z)
