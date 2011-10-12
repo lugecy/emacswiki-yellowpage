@@ -797,6 +797,7 @@
 (:name lacarte :revision 14 :last-modified 2011-01-04T19:00Z)
 (:name langtool :revision 2 :last-modified 2011-02-05T09:15Z)
 (:name later-do :revision 4 :last-modified 2005-10-13T17:56Z)
+(:name latex-frame-mode :revision 3 :last-modified 2011-10-12T20:31Z)
 (:name latex-math-preview :revision 33 :last-modified 2011-10-09T01:58Z)
 (:name latex-math-preview-extra-data :revision 1 :last-modified 2009-08-06T08:38Z)
 (:name layout-restore :revision 4 :last-modified 2005-10-13T17:56Z)
