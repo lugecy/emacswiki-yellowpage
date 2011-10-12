@@ -680,7 +680,7 @@
 (:name icicles-opt :revision 409 :last-modified 2011-10-10T20:48Z)
 (:name icicles-var :revision 200 :last-modified 2011-10-08T17:15Z)
 (:name icicles-xmas :revision 5 :last-modified 2006-03-03T13:28Z)
-(:name icomplete+ :revision 33 :last-modified 2011-08-24T16:53Z)
+(:name icomplete+ :revision 34 :last-modified 2011-10-12T15:54Z)
 (:name ide-skel :revision 3 :last-modified 2009-01-01T10:45Z)
 (:name identica-mode :revision 11 :last-modified 2010-06-08T08:30Z)
 (:name idle-scroll :revision 8 :last-modified 2009-11-21T00:40Z)
