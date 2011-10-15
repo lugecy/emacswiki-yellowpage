@@ -1587,7 +1587,7 @@
 (:name wiki-remote :revision 8 :last-modified 2009-12-21T19:00Z)
 (:name wikiarea :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name wikiarea-fixed :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name wikidoc :revision 3 :last-modified 2010-12-05T22:42Z)
+(:name wikidoc :revision 4 :last-modified 2011-10-14T23:19Z)
 (:name wikify-ell :revision 5 :last-modified 2009-11-20T23:40Z)
 (:name wikipedia-mode :revision 9 :last-modified 2006-05-30T15:30Z)
 (:name wikirel :revision 1 :last-modified 2008-12-23T18:42Z)
