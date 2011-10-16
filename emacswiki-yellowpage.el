@@ -305,7 +305,7 @@
 (:name cssh :revision 12 :last-modified 2010-07-22T21:17Z)
 (:name csv-mode :revision 3 :last-modified 2011-03-17T02:50Z)
 (:name csv-nav :revision 5 :last-modified 2009-11-21T00:37Z)
-(:name ctags-update :revision 1 :last-modified 2011-10-16T06:48Z)
+(:name ctags-update :revision 2 :last-modified 2011-10-16T08:55Z)
 (:name ctypes :revision 7 :last-modified 2009-08-19T00:53Z)
 (:name cursor-chg :revision 13 :last-modified 2011-01-04T04:31Z)
 (:name cus-edit+ :revision 47 :last-modified 2011-03-31T14:58Z)
