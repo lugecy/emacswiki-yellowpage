@@ -663,6 +663,7 @@
 (:name htmlr :revision 5 :last-modified 2009-11-21T00:40Z)
 (:name http-post-curl :revision 1 :last-modified 2007-01-26T08:00Z)
 (:name http-post-simple :revision 6 :last-modified 2008-11-04T22:13Z)
+(:name httpgetwin32 :revision 1 :last-modified 2011-10-18T22:29Z)
 (:name i-ching :revision 2 :last-modified 2009-06-08T19:20Z)
 (:name icicles :revision 896 :last-modified 2011-10-12T16:09Z)
 (:name icicles-chg :revision 736 :last-modified 2011-10-14T22:44Z)
