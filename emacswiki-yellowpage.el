@@ -1368,7 +1368,7 @@
 (:name sqlparser-sqlserver-complete :revision 7 :last-modified 2011-10-12T01:38Z)
 (:name sqlplus :revision 17 :last-modified 2009-01-01T10:48Z)
 (:name sqlserver-query :revision 6 :last-modified 2011-10-12T01:31Z)
-(:name sqlserver-table2entity-4csharp :revision 1 :last-modified 2011-09-27T06:23Z)
+(:name sqlserver-table2entity-4csharp :revision 2 :last-modified 2011-10-20T02:54Z)
 (:name sqlserver-table2entity-4java :revision 1 :last-modified 2011-09-27T06:23Z)
 (:name sr-monotone :revision 2 :last-modified 2007-10-30T21:17Z)
 (:name sr-speedbar :revision 47 :last-modified 2009-07-23T04:35Z)
