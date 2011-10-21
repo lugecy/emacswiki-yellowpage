@@ -1197,7 +1197,7 @@
 (:name queue-mail :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name quick-jump :revision 4 :last-modified 2011-05-29T13:32Z)
 (:name r-autoyas :revision 4 :last-modified 2011-06-08T21:24Z)
-(:name rainbow-delimiters :revision 24 :last-modified 2011-10-21T12:45Z)
+(:name rainbow-delimiters :revision 25 :last-modified 2011-10-21T19:52Z)
 (:name random-idle-quote :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name random-quote :revision 1 :last-modified 2010-06-09T13:45Z)
 (:name rational :revision 2 :last-modified 2007-04-05T04:52Z)
