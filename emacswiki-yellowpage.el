@@ -766,7 +766,7 @@
 (:name java-complete :revision 2 :last-modified 2010-08-03T12:37Z)
 (:name java-mode-indent-annotations :revision 2 :last-modified 2006-02-22T22:06Z)
 (:name javacc-mode :revision 1 :last-modified 2009-02-04T20:04Z)
-(:name jcl-command-subset :revision 6 :last-modified 2011-10-23T16:14Z)
+(:name jcl-command-subset :revision 7 :last-modified 2011-10-23T18:05Z)
 (:name jde-eclipse-compiler-server :revision 15 :last-modified 2007-07-19T18:07Z)
 (:name jde-findbugs :revision 3 :last-modified 2006-10-25T21:49Z)
 (:name jde-flymake :revision 4 :last-modified 2005-10-13T17:56Z)
