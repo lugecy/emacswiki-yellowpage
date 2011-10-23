@@ -1412,7 +1412,7 @@
 (:name swbuff-x :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name sweat :revision 1 :last-modified 2011-05-30T00:26Z)
 (:name switch-color-theme-matlab-latex :revision 2 :last-modified 2010-08-03T13:19Z)
-(:name switch-file :revision 3 :last-modified 2010-05-28T02:26Z)
+(:name switch-file :revision 4 :last-modified 2011-10-23T14:12Z)
 (:name switch-to-new-buffer :revision 1 :last-modified 2010-05-27T05:57Z)
 (:name switch-window :revision 19 :last-modified 2010-09-13T15:38Z)
 (:name symlink-fix :revision 2 :last-modified 2010-06-09T13:50Z)
