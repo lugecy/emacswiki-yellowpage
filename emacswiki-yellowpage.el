@@ -186,7 +186,7 @@
 (:name bookmark+-bmu :revision 38 :last-modified 2011-10-28T02:11Z)
 (:name bookmark+-chg :revision 70 :last-modified 2011-10-28T02:18Z)
 (:name bookmark+-doc :revision 65 :last-modified 2011-10-19T04:22Z)
-(:name bookmark+-key :revision 11 :last-modified 2011-04-25T13:56Z)
+(:name bookmark+-key :revision 12 :last-modified 2011-10-28T17:57Z)
 (:name bookmark+-lit :revision 14 :last-modified 2011-08-09T17:36Z)
 (:name bookmark+-mac :revision 6 :last-modified 2011-04-02T00:10Z)
 (:name bookmark-add :revision 38 :last-modified 2010-08-03T11:28Z)
