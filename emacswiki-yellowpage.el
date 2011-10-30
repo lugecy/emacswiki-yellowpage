@@ -797,7 +797,7 @@
 (:name kis-interface :revision 3 :last-modified 2006-02-14T01:06Z)
 (:name kis-project :revision 2 :last-modified 2006-04-30T09:33Z)
 (:name kokopelli :revision 11 :last-modified 2010-08-03T12:39Z)
-(:name lacarte :revision 14 :last-modified 2011-01-04T19:00Z)
+(:name lacarte :revision 15 :last-modified 2011-10-30T20:08Z)
 (:name langtool :revision 2 :last-modified 2011-02-05T09:15Z)
 (:name later-do :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name latex-frame-mode :revision 3 :last-modified 2011-10-12T20:31Z)
