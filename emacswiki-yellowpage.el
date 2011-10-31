@@ -1579,7 +1579,7 @@
 (:name wget-extension :revision 1 :last-modified 2009-03-12T18:06Z)
 (:name wgrep :revision 10 :last-modified 2011-03-06T11:30Z)
 (:name whine :revision 2 :last-modified 2009-12-22T15:30Z)
-(:name whitespace :revision 23 :last-modified 2011-04-20T02:58Z)
+(:name whitespace :revision 24 :last-modified 2011-10-31T01:13Z)
 (:name wid-edit+ :revision 13 :last-modified 2011-01-04T23:05Z)
 (:name wide-n :revision 12 :last-modified 2011-04-09T16:54Z)
 (:name widen-window :revision 2 :last-modified 2009-01-28T10:07Z)
