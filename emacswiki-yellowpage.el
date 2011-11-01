@@ -365,7 +365,7 @@
 (:name disk :revision 9 :last-modified 2008-11-28T15:06Z)
 (:name display-buffer-for-wide-screen :revision 3 :last-modified 2010-11-02T00:25Z)
 (:name display-hatebu :revision 5 :last-modified 2010-05-04T09:08Z)
-(:name doc-view :revision 4 :last-modified 2008-09-05T05:54Z)
+(:name doc-view :revision -1 :last-modified 2011-11-01T01:47Z)
 (:name doc-view-extension :revision 1 :last-modified 2009-01-16T15:05Z)
 (:name docmap :revision 7 :last-modified 2010-08-03T12:04Z)
 (:name doi :revision 4 :last-modified 2009-02-28T05:38Z)
