@@ -1263,7 +1263,7 @@
 (:name rtf-mode :revision 1 :last-modified 2009-05-31T03:40Z)
 (:name rtrt-script :revision 10 :last-modified 2011-04-05T20:48Z)
 (:name rubai :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name ruby-block :revision 8 :last-modified 2011-10-31T15:22Z)
+(:name ruby-block :revision 9 :last-modified 2011-11-01T11:52Z)
 (:name ruby-compilation :revision 4 :last-modified 2008-06-30T18:58Z)
 (:name ruby-mode :revision 1 :last-modified 2008-04-29T22:22Z)
 (:name ruby-test :revision 11 :last-modified 2008-11-25T14:02Z)
