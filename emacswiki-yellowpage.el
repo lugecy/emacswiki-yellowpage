@@ -450,6 +450,7 @@
 (:name env-print :revision 5 :last-modified 2008-09-05T05:54Z)
 (:name eoops :revision 7 :last-modified 2010-08-03T12:18Z)
 (:name eperiodic :revision 12 :last-modified 2008-09-05T05:54Z)
+(:name epubmode :revision 2 :last-modified 2011-11-11T16:49Z)
 (:name erc-babel :revision 4 :last-modified 2010-03-14T16:30Z)
 (:name erc-extension :revision 2 :last-modified 2009-02-05T13:35Z)
 (:name erc-highlight-nicknames :revision 6 :last-modified 2008-12-07T13:32Z)
