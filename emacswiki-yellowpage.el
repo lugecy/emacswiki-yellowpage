@@ -1315,7 +1315,7 @@
 (:name setup :revision 35 :last-modified 2011-08-19T23:39Z)
 (:name setup-cygwin :revision 22 :last-modified 2011-08-11T20:26Z)
 (:name setup-helper :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name setup-keys :revision 85 :last-modified 2011-07-25T20:29Z)
+(:name setup-keys :revision 86 :last-modified 2011-11-12T16:28Z)
 (:name sfst :revision 2 :last-modified 2009-03-31T13:22Z)
 (:name shell-command :revision 1 :last-modified 2009-06-21T13:32Z)
 (:name shell-command-extension :revision 2 :last-modified 2009-02-11T07:13Z)
