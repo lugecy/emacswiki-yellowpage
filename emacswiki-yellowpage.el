@@ -753,7 +753,7 @@
 (:name irc :revision 2 :last-modified 2010-08-03T12:34Z)
 (:name ireplace :revision 3 :last-modified 2010-08-03T12:35Z)
 (:name irfc :revision 38 :last-modified 2011-07-13T16:14Z)
-(:name isearch+ :revision 55 :last-modified 2011-11-12T01:16Z)
+(:name isearch+ :revision 57 :last-modified 2011-11-13T20:22Z)
 (:name isearch-all :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name isearch-extension :revision 1 :last-modified 2009-01-16T15:09Z)
 (:name iswitchb-highlight :revision 4 :last-modified 2005-10-13T17:56Z)
