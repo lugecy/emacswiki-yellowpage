@@ -977,7 +977,7 @@
 (:name mouse-drag-fix :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name mouse3 :revision 13 :last-modified 2011-10-08T00:38Z)
 (:name move-and :revision 3 :last-modified 2010-08-03T12:53Z)
-(:name move-text :revision 2 :last-modified 2010-10-08T23:02Z)
+(:name move-text :revision 4 :last-modified 2011-11-15T11:59Z)
 (:name mp3player :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name mp3player-scores :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name mpcel :revision 4 :last-modified 2010-06-21T20:20Z)
