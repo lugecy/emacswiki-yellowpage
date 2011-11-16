@@ -508,7 +508,7 @@
 (:name file-template :revision 1 :last-modified 2007-12-05T15:16Z)
 (:name files+ :revision 32 :last-modified 2011-09-22T02:17Z)
 (:name filesets+ :revision 5 :last-modified 2011-01-04T17:22Z)
-(:name fill-column-indicator :revision 38 :last-modified 2011-11-16T15:37Z)
+(:name fill-column-indicator :revision 39 :last-modified 2011-11-16T19:22Z)
 (:name fill-column-indicator-legacy :revision 1 :last-modified 2011-06-17T00:03Z)
 (:name fill-column-rule :revision 16 :last-modified 2011-05-03T20:24Z)
 (:name fillcode :revision 8 :last-modified 2007-08-24T17:58Z)
