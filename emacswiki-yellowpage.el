@@ -1492,7 +1492,7 @@
 (:name transpose-frame :revision 2 :last-modified 2011-03-01T06:12Z)
 (:name trantab :revision 1 :last-modified 2008-05-06T07:56Z)
 (:name trash-settings :revision 4 :last-modified 2010-08-12T03:25Z)
-(:name trashcan :revision 2 :last-modified 2010-12-10T13:32Z)
+(:name trashcan :revision 4 :last-modified 2011-11-17T17:15Z)
 (:name traverselisp :revision 106 :last-modified 2010-08-29T06:22Z)
 (:name tree-mode :revision 5 :last-modified 2008-04-18T06:25Z)
 (:name ts-mode :revision 7 :last-modified 2009-08-12T22:35Z)
