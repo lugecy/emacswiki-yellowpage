@@ -1565,6 +1565,7 @@
 (:name warn-mail :revision 12 :last-modified 2008-01-18T12:34Z)
 (:name waveform-mode :revision 2 :last-modified 2011-08-03T09:09Z)
 (:name wc :revision 2 :last-modified 2007-09-04T20:03Z)
+(:name wc-mode :revision 2 :last-modified 2011-11-20T17:00Z)
 (:name wcheck-mode :revision 20 :last-modified 2011-06-24T12:27Z)
 (:name wcy-complete :revision 6 :last-modified 2010-04-23T07:59Z)
 (:name wcy-compose :revision 1 :last-modified 2009-04-27T08:22Z)
