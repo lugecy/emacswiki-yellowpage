@@ -76,7 +76,7 @@
 (:name anything-emms :revision 5 :last-modified 2009-05-12T15:19Z)
 (:name anything-eproject :revision 4 :last-modified 2010-02-06T11:02Z)
 (:name anything-etags :revision 3 :last-modified 2011-04-24T12:17Z)
-(:name anything-etags+ :revision 14 :last-modified 2011-11-21T06:34Z)
+(:name anything-etags+ :revision 15 :last-modified 2011-11-21T08:47Z)
 (:name anything-extension :revision 15 :last-modified 2009-03-09T05:15Z)
 (:name anything-exuberant-ctags :revision 3 :last-modified 2011-08-24T04:31Z)
 (:name anything-grep :revision 14 :last-modified 2010-06-23T20:08Z)
