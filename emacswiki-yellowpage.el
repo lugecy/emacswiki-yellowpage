@@ -1253,6 +1253,7 @@
 (:name rewrite :revision 5 :last-modified 2010-08-03T13:10Z)
 (:name rfc :revision 5 :last-modified 2008-12-16T17:59Z)
 (:name rfringe :revision 1 :last-modified 2011-04-05T15:20Z)
+(:name rgrep-append :revision 1 :last-modified 2011-11-22T13:38Z)
 (:name ri :revision 3 :last-modified 2011-01-26T21:22Z)
 (:name ricette-mode :revision 5 :last-modified 2009-03-09T16:39Z)
 (:name rijndael :revision 4 :last-modified 2005-10-13T17:56Z)
