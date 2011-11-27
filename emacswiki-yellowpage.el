@@ -1399,7 +1399,7 @@
 (:name sudo-ext :revision 4 :last-modified 2011-01-17T07:10Z)
 (:name sudo-save :revision 2 :last-modified 2008-12-03T21:37Z)
 (:name summarye :revision 2 :last-modified 2010-08-03T13:18Z)
-(:name sunrise-commander :revision 137 :last-modified 2011-11-23T21:50Z)
+(:name sunrise-commander :revision 138 :last-modified 2011-11-27T20:30Z)
 (:name sunrise-x-buttons :revision 12 :last-modified 2011-11-23T00:36Z)
 (:name sunrise-x-checkpoints :revision 9 :last-modified 2011-06-18T09:23Z)
 (:name sunrise-x-loop :revision 15 :last-modified 2011-11-23T00:36Z)
