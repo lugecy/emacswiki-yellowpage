@@ -137,7 +137,7 @@
 (:name auto-mark :revision 7 :last-modified 2008-03-13T02:34Z)
 (:name auto-pair+ :revision 8 :last-modified 2010-11-30T20:08Z)
 (:name auto-scroll :revision 1 :last-modified 2009-02-05T17:27Z)
-(:name autofit-frame :revision 34 :last-modified 2011-11-08T17:39Z)
+(:name autofit-frame :revision 35 :last-modified 2011-11-30T17:31Z)
 (:name autoinfo :revision 4 :last-modified 2008-09-05T05:53Z)
 (:name autoload+ :revision 14 :last-modified 2011-01-03T23:34Z)
 (:name autosmiley :revision 7 :last-modified 2010-08-03T10:39Z)
