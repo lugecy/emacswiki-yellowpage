@@ -132,7 +132,7 @@
 (:name auto-indent :revision 3 :last-modified 2011-09-24T04:03Z)
 (:name auto-indent-mode :revision 59 :last-modified 2011-04-09T04:10Z)
 (:name auto-install :revision 75 :last-modified 2011-04-12T06:28Z)
-(:name auto-install-batch-list :revision 29 :last-modified 2011-09-20T15:16Z)
+(:name auto-install-batch-list :revision 30 :last-modified 2011-12-01T10:07Z)
 (:name auto-install-extension :revision 1 :last-modified 2009-01-07T12:31Z)
 (:name auto-mark :revision 7 :last-modified 2008-03-13T02:34Z)
 (:name auto-pair+ :revision 8 :last-modified 2010-11-30T20:08Z)
