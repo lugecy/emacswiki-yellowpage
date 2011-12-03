@@ -1461,7 +1461,7 @@
 (:name thing-opt :revision 11 :last-modified 2009-07-12T08:30Z)
 (:name thingatpt+ :revision 50 :last-modified 2011-09-06T23:02Z)
 (:name thingatpt-ext :revision 1 :last-modified 2009-04-11T17:03Z)
-(:name thumb-frm :revision 34 :last-modified 2011-11-25T16:21Z)
+(:name thumb-frm :revision 35 :last-modified 2011-12-03T18:03Z)
 (:name thumb-page :revision 9 :last-modified 2009-03-20T22:15Z)
 (:name thumbs :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name thumbs-xmas :revision 4 :last-modified 2005-10-13T17:56Z)
