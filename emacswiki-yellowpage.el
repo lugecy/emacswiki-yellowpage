@@ -1400,7 +1400,7 @@
 (:name sudo-ext :revision 4 :last-modified 2011-01-17T07:10Z)
 (:name sudo-save :revision 2 :last-modified 2008-12-03T21:37Z)
 (:name summarye :revision 2 :last-modified 2010-08-03T13:18Z)
-(:name sunrise-commander :revision 139 :last-modified 2011-11-27T21:06Z)
+(:name sunrise-commander :revision 140 :last-modified 2011-12-03T21:35Z)
 (:name sunrise-x-buttons :revision 12 :last-modified 2011-11-23T00:36Z)
 (:name sunrise-x-checkpoints :revision 9 :last-modified 2011-06-18T09:23Z)
 (:name sunrise-x-loop :revision 15 :last-modified 2011-11-23T00:36Z)
