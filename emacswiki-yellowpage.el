@@ -1102,7 +1102,7 @@
 (:name override-keymaps :revision 2 :last-modified 2007-07-12T08:34Z)
 (:name pabbrev :revision 6 :last-modified 2010-05-26T12:08Z)
 (:name paint :revision 11 :last-modified 2011-01-05T23:06Z)
-(:name palette :revision 57 :last-modified 2011-11-27T01:51Z)
+(:name palette :revision 58 :last-modified 2011-12-08T16:50Z)
 (:name paredit-extension :revision 3 :last-modified 2009-01-27T16:08Z)
 (:name parenthesis :revision 4 :last-modified 2011-05-23T05:48Z)
 (:name parser :revision 6 :last-modified 2008-04-10T06:35Z)
