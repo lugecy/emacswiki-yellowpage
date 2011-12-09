@@ -456,7 +456,7 @@
 (:name erc-highlight-nicknames :revision 6 :last-modified 2008-12-07T13:32Z)
 (:name erc-highlight-nicknames-xemacs :revision 1 :last-modified 2007-10-12T22:22Z)
 (:name erc-input-fill :revision 3 :last-modified 2009-09-07T13:44Z)
-(:name erc-nick-notify :revision 3 :last-modified 2009-01-31T02:48Z)
+(:name erc-nick-notify :revision 4 :last-modified 2011-12-09T00:41Z)
 (:name erc-robot :revision 2 :last-modified 2006-12-18T11:30Z)
 (:name erc-tex :revision 3 :last-modified 2009-09-14T01:13Z)
 (:name erc-track-xmas :revision 4 :last-modified 2005-10-13T17:56Z)
