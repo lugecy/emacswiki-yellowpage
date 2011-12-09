@@ -1080,7 +1080,7 @@
 (:name org-annotate-file :revision 4 :last-modified 2010-11-21T02:54Z)
 (:name org-assoc-tags :revision 4 :last-modified 2010-08-03T12:57Z)
 (:name org-blog :revision 1 :last-modified 2008-02-20T08:05Z)
-(:name org-cua-dwim :revision 1 :last-modified 2011-12-08T23:12Z)
+(:name org-cua-dwim :revision 2 :last-modified 2011-12-09T15:15Z)
 (:name org-export-blocks-format-plantuml :revision 7 :last-modified 2010-08-17T15:01Z)
 (:name org-extension :revision 3 :last-modified 2009-01-19T23:01Z)
 (:name org-jira :revision 3 :last-modified 2009-06-04T15:19Z)
