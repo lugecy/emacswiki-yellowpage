@@ -977,7 +977,7 @@
 (:name motion-and-kill-dwim :revision 1 :last-modified 2007-12-06T18:51Z)
 (:name mouse+ :revision 28 :last-modified 2011-11-04T16:39Z)
 (:name mouse-drag-fix :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name mouse3 :revision 13 :last-modified 2011-10-08T00:38Z)
+(:name mouse3 :revision 14 :last-modified 2011-12-09T17:49Z)
 (:name move-and :revision 3 :last-modified 2010-08-03T12:53Z)
 (:name move-text :revision 4 :last-modified 2011-11-15T11:59Z)
 (:name mp3player :revision 4 :last-modified 2005-10-13T17:56Z)
