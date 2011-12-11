@@ -402,7 +402,7 @@
 (:name ecmascript-mode :revision 9 :last-modified 2008-09-05T05:10Z)
 (:name ectags-select :revision 4 :last-modified 2008-12-13T18:17Z)
 (:name edi-mode :revision 10 :last-modified 2008-09-05T05:54Z)
-(:name ediff+ :revision 11 :last-modified 2011-01-04T16:49Z)
+(:name ediff+ :revision 12 :last-modified 2011-12-11T22:07Z)
 (:name ediff-trees :revision 6 :last-modified 2008-09-05T05:54Z)
 (:name edje-mode :revision 1 :last-modified 2010-12-28T12:52Z)
 (:name eev-thierry :revision 3 :last-modified 2009-07-05T06:43Z)
