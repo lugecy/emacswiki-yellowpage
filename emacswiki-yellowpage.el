@@ -1544,7 +1544,7 @@
 (:name viper-in-more-modes :revision 10 :last-modified 2011-08-15T20:14Z)
 (:name visible-lines :revision 3 :last-modified 2008-01-27T05:59Z)
 (:name visible-mark :revision 4 :last-modified 2008-02-21T06:51Z)
-(:name visual-basic-mode :revision 32 :last-modified 2010-10-19T19:56Z)
+(:name visual-basic-mode :revision 36 :last-modified 2011-12-11T11:07Z)
 (:name visws :revision 1 :last-modified 2009-09-06T12:54Z)
 (:name vlf :revision 4 :last-modified 2007-07-22T16:31Z)
 (:name vline :revision 12 :last-modified 2010-02-03T21:08Z)
