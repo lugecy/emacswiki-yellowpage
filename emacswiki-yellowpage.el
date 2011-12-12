@@ -466,7 +466,7 @@
 (:name erobot :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name ess-edit :revision 5 :last-modified 2011-10-13T17:34Z)
 (:name ess-smart-underscore :revision 14 :last-modified 2011-08-03T20:06Z)
-(:name essh :revision 3 :last-modified 2011-12-11T17:18Z)
+(:name essh :revision 4 :last-modified 2011-12-12T19:08Z)
 (:name esv :revision 20 :last-modified 2011-08-26T14:50Z)
 (:name etags-extension :revision 4 :last-modified 2009-02-11T06:57Z)
 (:name etags-select :revision 19 :last-modified 2008-12-15T19:23Z)
