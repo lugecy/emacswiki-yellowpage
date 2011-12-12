@@ -1391,7 +1391,7 @@
 (:name sticky :revision 4 :last-modified 2010-11-30T02:52Z)
 (:name sticky-windows :revision 1 :last-modified 2008-10-12T05:42Z)
 (:name stream :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name strings :revision 31 :last-modified 2011-08-31T00:50Z)
+(:name strings :revision 32 :last-modified 2011-12-12T17:36Z)
 (:name stripe-buffer :revision 2 :last-modified 2009-01-06T06:17Z)
 (:name stripes :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name strptime :revision 4 :last-modified 2008-12-09T22:04Z)
