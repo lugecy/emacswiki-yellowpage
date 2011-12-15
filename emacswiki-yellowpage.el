@@ -1314,7 +1314,7 @@
 (:name seinquote :revision 2 :last-modified 2007-12-30T14:02Z)
 (:name selective-undo-xmas :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name semantic-tag-folding :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name sentence-highlight :revision 1 :last-modified 2011-10-22T14:09Z)
+(:name sentence-highlight :revision 2 :last-modified 2011-12-15T19:56Z)
 (:name sequential-command :revision 2 :last-modified 2010-05-04T08:55Z)
 (:name sequential-command-config :revision 2 :last-modified 2009-03-22T09:10Z)
 (:name session :revision 1 :last-modified 2010-08-07T07:21Z)
