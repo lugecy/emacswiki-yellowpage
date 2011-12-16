@@ -1459,7 +1459,7 @@
 (:name textmate-to-yas :revision 7 :last-modified 2011-04-01T13:49Z)
 (:name textmenu :revision 5 :last-modified 2009-11-21T00:42Z)
 (:name tfs :revision 8 :last-modified 2011-05-02T19:33Z)
-(:name thing-cmds :revision 31 :last-modified 2011-07-02T23:35Z)
+(:name thing-cmds :revision 32 :last-modified 2011-12-15T23:35Z)
 (:name thing-edit :revision 5 :last-modified 2009-01-20T09:25Z)
 (:name thing-edit-extension :revision 2 :last-modified 2009-01-13T02:45Z)
 (:name thing-opt :revision 11 :last-modified 2009-07-12T08:30Z)
