@@ -669,7 +669,7 @@
 (:name httpgetwin32 :revision 1 :last-modified 2011-10-18T22:29Z)
 (:name i-ching :revision 2 :last-modified 2009-06-08T19:20Z)
 (:name icicles :revision 904 :last-modified 2011-12-15T04:36Z)
-(:name icicles-chg :revision 762 :last-modified 2011-12-16T22:54Z)
+(:name icicles-chg :revision 763 :last-modified 2011-12-19T18:01Z)
 (:name icicles-cmd1 :revision 161 :last-modified 2011-12-19T17:59Z)
 (:name icicles-cmd2 :revision 145 :last-modified 2011-12-14T19:08Z)
 (:name icicles-doc1 :revision 307 :last-modified 2011-12-15T04:40Z)
