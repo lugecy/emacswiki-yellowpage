@@ -558,7 +558,7 @@
 (:name frame-restore :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name framemove :revision 3 :last-modified 2010-10-13T20:52Z)
 (:name free-tagging :revision 4 :last-modified 2010-08-03T12:24Z)
-(:name french-holidays :revision 2 :last-modified 2010-10-30T07:54Z)
+(:name french-holidays :revision 3 :last-modified 2011-12-19T21:19Z)
 (:name fsdired :revision 1 :last-modified 2007-03-20T11:14Z)
 (:name fsproject :revision 1 :last-modified 2009-08-07T07:19Z)
 (:name fullscreen :revision 1 :last-modified 2009-02-11T13:09Z)
