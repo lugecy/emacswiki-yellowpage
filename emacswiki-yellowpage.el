@@ -1353,6 +1353,7 @@
 (:name smart-compile+ :revision 5 :last-modified 2007-01-20T02:51Z)
 (:name smart-dabbrev :revision 1 :last-modified 2008-09-02T20:34Z)
 (:name smart-operator :revision 8 :last-modified 2005-10-13T17:56Z)
+(:name smartrep :revision 1 :last-modified 2011-12-19T07:43Z)
 (:name sml-modeline :revision 2 :last-modified 2010-11-23T00:08Z)
 (:name smooth-scroll :revision 3 :last-modified 2010-10-21T01:27Z)
 (:name sms :revision 4 :last-modified 2009-10-09T02:51Z)
