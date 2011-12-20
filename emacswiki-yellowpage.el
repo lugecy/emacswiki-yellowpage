@@ -463,6 +463,7 @@
 (:name erec :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name erefactor :revision 4 :last-modified 2011-01-25T12:07Z)
 (:name ergo-movement-mode :revision 17 :last-modified 2010-08-03T12:20Z)
+(:name erlang-dired-mode :revision 1 :last-modified 2011-12-20T15:13Z)
 (:name erobot :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name ess-edit :revision 5 :last-modified 2011-10-13T17:34Z)
 (:name ess-smart-underscore :revision 14 :last-modified 2011-08-03T20:06Z)
