@@ -136,6 +136,7 @@
 (:name auto-install-extension :revision 1 :last-modified 2009-01-07T12:31Z)
 (:name auto-mark :revision 7 :last-modified 2008-03-13T02:34Z)
 (:name auto-pair+ :revision 8 :last-modified 2010-11-30T20:08Z)
+(:name auto-recomp :revision 2 :last-modified 2011-12-21T07:04Z)
 (:name auto-scroll :revision 1 :last-modified 2009-02-05T17:27Z)
 (:name autofit-frame :revision 35 :last-modified 2011-11-30T17:31Z)
 (:name autoinfo :revision 4 :last-modified 2008-09-05T05:53Z)
