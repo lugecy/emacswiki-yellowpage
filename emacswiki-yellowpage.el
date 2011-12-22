@@ -1473,7 +1473,7 @@
 (:name thumb-page :revision 9 :last-modified 2009-03-20T22:15Z)
 (:name thumbs :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name thumbs-xmas :revision 4 :last-modified 2005-10-13T17:56Z)
-(:name tidy :revision 8 :last-modified 2007-10-13T02:30Z)
+(:name tidy :revision 9 :last-modified 2011-12-22T17:56Z)
 (:name tie-mode :revision 1 :last-modified 2009-11-03T23:16Z)
 (:name tiling :revision 4 :last-modified 2010-12-01T05:38Z)
 (:name time-ext :revision 1 :last-modified 2010-05-16T00:35Z)
