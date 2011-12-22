@@ -1347,6 +1347,7 @@
 (:name simple-wiki-recent-changes :revision 8 :last-modified 2010-11-24T17:36Z)
 (:name singlebind :revision 8 :last-modified 2007-03-22T06:19Z)
 (:name ska-skel-matlab :revision 4 :last-modified 2005-10-13T17:56Z)
+(:name sl :revision 1 :last-modified 2011-12-22T15:05Z)
 (:name slime-company :revision 1 :last-modified 2009-11-19T16:23Z)
 (:name slime-loads :revision 1 :last-modified 2010-09-07T21:44Z)
 (:name slime-loads-GNU-clbuild :revision 6 :last-modified 2011-01-18T19:03Z)
