@@ -130,7 +130,7 @@
 (:name auto-complete-verilog :revision 3 :last-modified 2009-04-26T08:52Z)
 (:name auto-document :revision 10 :last-modified 2010-05-04T09:00Z)
 (:name auto-indent :revision 3 :last-modified 2011-09-24T04:03Z)
-(:name auto-indent-mode :revision 67 :last-modified 2011-12-21T17:19Z)
+(:name auto-indent-mode :revision 68 :last-modified 2011-12-22T19:50Z)
 (:name auto-install :revision 75 :last-modified 2011-04-12T06:28Z)
 (:name auto-install-batch-list :revision 30 :last-modified 2011-12-01T10:07Z)
 (:name auto-install-extension :revision 1 :last-modified 2009-01-07T12:31Z)
