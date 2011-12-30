@@ -189,7 +189,7 @@
 (:name bookmark+-doc :revision 74 :last-modified 2011-12-21T22:52Z)
 (:name bookmark+-key :revision 21 :last-modified 2011-12-14T23:55Z)
 (:name bookmark+-lit :revision 16 :last-modified 2011-12-08T17:07Z)
-(:name bookmark+-mac :revision 6 :last-modified 2011-04-02T00:10Z)
+(:name bookmark+-mac :revision 7 :last-modified 2011-12-30T22:05Z)
 (:name bookmark-add :revision 38 :last-modified 2010-08-03T11:28Z)
 (:name bookmark-iterator :revision 7 :last-modified 2008-12-13T17:34Z)
 (:name bpath :revision 3 :last-modified 2009-04-14T06:23Z)
