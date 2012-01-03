@@ -1063,7 +1063,7 @@
 (:name ntcmd :revision 1 :last-modified 2010-09-12T17:00Z)
 (:name occur-schroeder :revision 1 :last-modified 2008-05-27T17:12Z)
 (:name oddmuse :revision 29 :last-modified 2009-02-22T23:22Z)
-(:name oddmuse-curl :revision 7 :last-modified 2012-01-02T22:54Z)
+(:name oddmuse-curl :revision 8 :last-modified 2012-01-02T23:03Z)
 (:name oggel :revision 4 :last-modified 2005-10-13T17:56Z)
 (:name oicq :revision 3 :last-modified 2009-01-10T16:49Z)
 (:name one-key :revision 51 :last-modified 2011-09-24T16:11Z)
